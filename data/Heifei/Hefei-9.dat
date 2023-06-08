@@ -1,0 +1,1538 @@
+NOMBRE : Hefei-9
+COMENTARIO :  
+BESTVALUE : -1
+VERTICES : 850
+ARISTAS_REQ : 1091
+ARISTAS_NOREQ : 121
+RACIMOS : 311
+VEHICULOS : 63
+CAPACIDAD : 9000
+TIPO_COSTES_ARISTAS : EXPLICITOS
+TOTAL COST OF REQUIRED EDGES: 558908
+LISTA_ARISTAS_REQ :
+( 1, 2) coste 663 demanda 663
+( 3, 4) coste 825 demanda 825
+( 4, 5) coste 295 demanda 295
+( 6, 7) coste 170 demanda 170
+( 7, 8) coste 133 demanda 133
+( 8, 9) coste 195 demanda 195
+( 10, 11) coste 105 demanda 105
+( 11, 12) coste 223 demanda 223
+( 12, 13) coste 579 demanda 579
+( 15, 16) coste 156 demanda 156
+( 17, 18) coste 198 demanda 198
+( 19, 20) coste 580 demanda 580
+( 20, 21) coste 2026 demanda 2026
+( 21, 22) coste 599 demanda 599
+( 23, 24) coste 904 demanda 904
+( 24, 25) coste 269 demanda 269
+( 25, 26) coste 528 demanda 528
+( 27, 28) coste 496 demanda 496
+( 28, 29) coste 193 demanda 193
+( 30, 31) coste 424 demanda 424
+( 31, 32) coste 262 demanda 262
+( 33, 34) coste 293 demanda 293
+( 34, 35) coste 298 demanda 298
+( 35, 36) coste 271 demanda 271
+( 36, 37) coste 107 demanda 107
+( 40, 41) coste 504 demanda 504
+( 41, 42) coste 433 demanda 433
+( 42, 43) coste 372 demanda 372
+( 43, 44) coste 334 demanda 334
+( 45, 46) coste 1252 demanda 1252
+( 46, 47) coste 1841 demanda 1841
+( 47, 48) coste 477 demanda 477
+( 48, 49) coste 403 demanda 403
+( 49, 50) coste 449 demanda 449
+( 50, 51) coste 132 demanda 132
+( 52, 53) coste 278 demanda 278
+( 53, 54) coste 561 demanda 561
+( 54, 55) coste 299 demanda 299
+( 55, 56) coste 147 demanda 147
+( 57, 58) coste 251 demanda 251
+( 58, 59) coste 517 demanda 517
+( 59, 60) coste 919 demanda 919
+( 60, 61) coste 772 demanda 772
+( 62, 63) coste 466 demanda 466
+( 64, 65) coste 776 demanda 776
+( 65, 66) coste 232 demanda 232
+( 66, 67) coste 593 demanda 593
+( 67, 68) coste 166 demanda 166
+( 68, 69) coste 1097 demanda 1097
+( 69, 70) coste 430 demanda 430
+( 70, 71) coste 587 demanda 587
+( 71, 72) coste 359 demanda 359
+( 72, 73) coste 636 demanda 636
+( 74, 75) coste 378 demanda 378
+( 75, 76) coste 515 demanda 515
+( 77, 78) coste 742 demanda 742
+( 79, 80) coste 847 demanda 847
+( 81, 82) coste 507 demanda 507
+( 82, 83) coste 215 demanda 215
+( 84, 85) coste 252 demanda 252
+( 43, 86) coste 289 demanda 289
+( 86, 87) coste 221 demanda 221
+( 88, 89) coste 285 demanda 285
+( 89, 90) coste 495 demanda 495
+( 91, 92) coste 347 demanda 347
+( 92, 93) coste 318 demanda 318
+( 93, 94) coste 871 demanda 871
+( 94, 95) coste 947 demanda 947
+( 95, 96) coste 206 demanda 206
+( 96, 97) coste 469 demanda 469
+( 97, 98) coste 218 demanda 218
+( 98, 99) coste 1183 demanda 1183
+( 99, 100) coste 423 demanda 423
+( 100, 101) coste 982 demanda 982
+( 101, 102) coste 460 demanda 460
+( 102, 103) coste 488 demanda 488
+( 104, 105) coste 227 demanda 227
+( 105, 106) coste 415 demanda 415
+( 106, 107) coste 358 demanda 358
+( 107, 108) coste 229 demanda 229
+( 108, 109) coste 254 demanda 254
+( 109, 110) coste 1670 demanda 1670
+( 111, 112) coste 574 demanda 574
+( 112, 113) coste 480 demanda 480
+( 114, 115) coste 298 demanda 298
+( 115, 116) coste 602 demanda 602
+( 117, 118) coste 636 demanda 636
+( 116, 119) coste 671 demanda 671
+( 119, 120) coste 315 demanda 315
+( 120, 121) coste 507 demanda 507
+( 120, 122) coste 308 demanda 308
+( 122, 123) coste 299 demanda 299
+( 123, 124) coste 305 demanda 305
+( 124, 125) coste 412 demanda 412
+( 125, 126) coste 513 demanda 513
+( 127, 128) coste 216 demanda 216
+( 128, 129) coste 281 demanda 281
+( 129, 130) coste 247 demanda 247
+( 131, 132) coste 334 demanda 334
+( 132, 133) coste 310 demanda 310
+( 133, 134) coste 368 demanda 368
+( 134, 135) coste 337 demanda 337
+( 135, 136) coste 331 demanda 331
+( 137, 138) coste 1106 demanda 1106
+( 139, 140) coste 550 demanda 550
+( 141, 142) coste 564 demanda 564
+( 145, 146) coste 1386 demanda 1386
+( 147, 148) coste 175 demanda 175
+( 148, 149) coste 699 demanda 699
+( 149, 150) coste 164 demanda 164
+( 151, 152) coste 1493 demanda 1493
+( 153, 154) coste 832 demanda 832
+( 155, 156) coste 1055 demanda 1055
+( 156, 157) coste 768 demanda 768
+( 157, 158) coste 156 demanda 156
+( 159, 160) coste 583 demanda 583
+( 160, 161) coste 241 demanda 241
+( 161, 129) coste 352 demanda 352
+( 129, 162) coste 728 demanda 728
+( 163, 164) coste 608 demanda 608
+( 165, 166) coste 798 demanda 798
+( 166, 167) coste 821 demanda 821
+( 169, 170) coste 345 demanda 345
+( 171, 172) coste 145 demanda 145
+( 172, 173) coste 579 demanda 579
+( 159, 174) coste 757 demanda 757
+( 174, 175) coste 985 demanda 985
+( 175, 176) coste 2830 demanda 2830
+( 176, 177) coste 1964 demanda 1964
+( 178, 179) coste 113 demanda 113
+( 179, 180) coste 127 demanda 127
+( 180, 181) coste 188 demanda 188
+( 182, 76) coste 543 demanda 543
+( 76, 183) coste 367 demanda 367
+( 47, 109) coste 716 demanda 716
+( 109, 184) coste 474 demanda 474
+( 184, 185) coste 355 demanda 355
+( 185, 186) coste 809 demanda 809
+( 186, 113) coste 561 demanda 561
+( 113, 187) coste 322 demanda 322
+( 187, 188) coste 384 demanda 384
+( 188, 124) coste 347 demanda 347
+( 124, 33) coste 732 demanda 732
+( 33, 13) coste 186 demanda 186
+( 13, 189) coste 862 demanda 862
+( 189, 190) coste 297 demanda 297
+( 83, 191) coste 228 demanda 228
+( 191, 192) coste 1576 demanda 1576
+( 192, 193) coste 962 demanda 962
+( 194, 195) coste 573 demanda 573
+( 196, 197) coste 1073 demanda 1073
+( 198, 199) coste 227 demanda 227
+( 199, 200) coste 309 demanda 309
+( 200, 201) coste 777 demanda 777
+( 201, 202) coste 813 demanda 813
+( 202, 203) coste 277 demanda 277
+( 205, 206) coste 218 demanda 218
+( 206, 152) coste 669 demanda 669
+( 207, 208) coste 373 demanda 373
+( 208, 209) coste 192 demanda 192
+( 209, 210) coste 399 demanda 399
+( 211, 212) coste 217 demanda 217
+( 212, 213) coste 214 demanda 214
+( 213, 214) coste 279 demanda 279
+( 215, 216) coste 648 demanda 648
+( 217, 218) coste 291 demanda 291
+( 218, 219) coste 187 demanda 187
+( 219, 220) coste 250 demanda 250
+( 221, 222) coste 445 demanda 445
+( 222, 223) coste 312 demanda 312
+( 223, 224) coste 998 demanda 998
+( 224, 225) coste 529 demanda 529
+( 225, 226) coste 551 demanda 551
+( 226, 227) coste 1049 demanda 1049
+( 227, 228) coste 2076 demanda 2076
+( 228, 229) coste 1795 demanda 1795
+( 233, 234) coste 1097 demanda 1097
+( 234, 235) coste 261 demanda 261
+( 237, 238) coste 479 demanda 479
+( 238, 239) coste 227 demanda 227
+( 239, 240) coste 260 demanda 260
+( 240, 241) coste 296 demanda 296
+( 242, 243) coste 531 demanda 531
+( 244, 245) coste 524 demanda 524
+( 245, 131) coste 215 demanda 215
+( 131, 246) coste 420 demanda 420
+( 246, 247) coste 182 demanda 182
+( 247, 214) coste 269 demanda 269
+( 248, 249) coste 342 demanda 342
+( 249, 250) coste 567 demanda 567
+( 252, 232) coste 1241 demanda 1241
+( 253, 254) coste 352 demanda 352
+( 255, 256) coste 767 demanda 767
+( 257, 258) coste 1917 demanda 1917
+( 259, 260) coste 2292 demanda 2292
+( 261, 262) coste 334 demanda 334
+( 262, 263) coste 643 demanda 643
+( 264, 265) coste 117 demanda 117
+( 265, 266) coste 228 demanda 228
+( 266, 267) coste 160 demanda 160
+( 267, 268) coste 203 demanda 203
+( 268, 269) coste 235 demanda 235
+( 269, 64) coste 294 demanda 294
+( 257, 228) coste 1884 demanda 1884
+( 228, 270) coste 978 demanda 978
+( 217, 272) coste 242 demanda 242
+( 273, 231) coste 133 demanda 133
+( 231, 274) coste 282 demanda 282
+( 275, 276) coste 167 demanda 167
+( 276, 277) coste 244 demanda 244
+( 277, 278) coste 219 demanda 219
+( 278, 279) coste 330 demanda 330
+( 280, 281) coste 380 demanda 380
+( 281, 282) coste 140 demanda 140
+( 282, 283) coste 310 demanda 310
+( 283, 284) coste 384 demanda 384
+( 285, 286) coste 227 demanda 227
+( 287, 288) coste 438 demanda 438
+( 289, 279) coste 296 demanda 296
+( 279, 290) coste 227 demanda 227
+( 291, 155) coste 489 demanda 489
+( 155, 292) coste 442 demanda 442
+( 292, 243) coste 494 demanda 494
+( 293, 294) coste 2774 demanda 2774
+( 294, 295) coste 218 demanda 218
+( 295, 296) coste 1469 demanda 1469
+( 296, 297) coste 223 demanda 223
+( 297, 219) coste 744 demanda 744
+( 277, 136) coste 1514 demanda 1514
+( 297, 298) coste 301 demanda 301
+( 298, 299) coste 1423 demanda 1423
+( 300, 230) coste 778 demanda 778
+( 230, 255) coste 1124 demanda 1124
+( 301, 302) coste 1014 demanda 1014
+( 303, 304) coste 1399 demanda 1399
+( 304, 305) coste 569 demanda 569
+( 305, 306) coste 439 demanda 439
+( 152, 307) coste 1060 demanda 1060
+( 308, 309) coste 1352 demanda 1352
+( 309, 310) coste 1003 demanda 1003
+( 311, 312) coste 312 demanda 312
+( 313, 311) coste 152 demanda 152
+( 311, 314) coste 244 demanda 244
+( 315, 160) coste 496 demanda 496
+( 160, 316) coste 229 demanda 229
+( 317, 318) coste 501 demanda 501
+( 318, 319) coste 151 demanda 151
+( 319, 320) coste 182 demanda 182
+( 320, 321) coste 508 demanda 508
+( 321, 322) coste 428 demanda 428
+( 322, 323) coste 225 demanda 225
+( 323, 324) coste 409 demanda 409
+( 325, 326) coste 226 demanda 226
+( 326, 327) coste 186 demanda 186
+( 327, 328) coste 286 demanda 286
+( 328, 329) coste 440 demanda 440
+( 329, 330) coste 233 demanda 233
+( 331, 332) coste 308 demanda 308
+( 332, 333) coste 128 demanda 128
+( 333, 334) coste 2513 demanda 2513
+( 335, 336) coste 1040 demanda 1040
+( 338, 339) coste 740 demanda 740
+( 340, 341) coste 1477 demanda 1477
+( 341, 19) coste 210 demanda 210
+( 342, 343) coste 627 demanda 627
+( 343, 344) coste 410 demanda 410
+( 344, 266) coste 190 demanda 190
+( 266, 345) coste 218 demanda 218
+( 345, 346) coste 266 demanda 266
+( 346, 347) coste 198 demanda 198
+( 347, 348) coste 192 demanda 192
+( 293, 349) coste 324 demanda 324
+( 170, 350) coste 447 demanda 447
+( 350, 351) coste 401 demanda 401
+( 351, 327) coste 1081 demanda 1081
+( 327, 352) coste 297 demanda 297
+( 352, 353) coste 215 demanda 215
+( 355, 356) coste 258 demanda 258
+( 322, 357) coste 555 demanda 555
+( 358, 323) coste 171 demanda 171
+( 359, 360) coste 384 demanda 384
+( 360, 361) coste 549 demanda 549
+( 361, 362) coste 137 demanda 137
+( 362, 99) coste 412 demanda 412
+( 99, 363) coste 337 demanda 337
+( 243, 364) coste 754 demanda 754
+( 355, 194) coste 305 demanda 305
+( 366, 258) coste 289 demanda 289
+( 258, 367) coste 556 demanda 556
+( 367, 227) coste 1166 demanda 1166
+( 227, 368) coste 457 demanda 457
+( 368, 294) coste 210 demanda 210
+( 294, 175) coste 984 demanda 984
+( 369, 370) coste 297 demanda 297
+( 370, 371) coste 200 demanda 200
+( 371, 372) coste 219 demanda 219
+( 372, 373) coste 238 demanda 238
+( 373, 41) coste 206 demanda 206
+( 41, 374) coste 284 demanda 284
+( 374, 375) coste 239 demanda 239
+( 264, 87) coste 227 demanda 227
+( 87, 376) coste 349 demanda 349
+( 376, 371) coste 443 demanda 443
+( 377, 378) coste 379 demanda 379
+( 378, 379) coste 283 demanda 283
+( 369, 380) coste 585 demanda 585
+( 381, 265) coste 244 demanda 244
+( 382, 383) coste 220 demanda 220
+( 383, 384) coste 870 demanda 870
+( 31, 385) coste 1594 demanda 1594
+( 387, 388) coste 428 demanda 428
+( 388, 389) coste 511 demanda 511
+( 390, 391) coste 428 demanda 428
+( 392, 393) coste 369 demanda 369
+( 393, 394) coste 319 demanda 319
+( 394, 395) coste 214 demanda 214
+( 395, 396) coste 296 demanda 296
+( 396, 397) coste 380 demanda 380
+( 397, 398) coste 519 demanda 519
+( 395, 399) coste 712 demanda 712
+( 379, 400) coste 375 demanda 375
+( 401, 402) coste 326 demanda 326
+( 402, 403) coste 596 demanda 596
+( 171, 404) coste 320 demanda 320
+( 404, 405) coste 803 demanda 803
+( 405, 406) coste 449 demanda 449
+( 406, 407) coste 560 demanda 560
+( 407, 408) coste 272 demanda 272
+( 408, 409) coste 780 demanda 780
+( 401, 411) coste 444 demanda 444
+( 411, 412) coste 554 demanda 554
+( 413, 414) coste 1049 demanda 1049
+( 415, 402) coste 602 demanda 602
+( 402, 411) coste 333 demanda 333
+( 416, 328) coste 1150 demanda 1150
+( 328, 417) coste 141 demanda 141
+( 417, 418) coste 130 demanda 130
+( 418, 419) coste 113 demanda 113
+( 244, 162) coste 379 demanda 379
+( 421, 422) coste 309 demanda 309
+( 423, 424) coste 435 demanda 435
+( 425, 426) coste 481 demanda 481
+( 426, 427) coste 1076 demanda 1076
+( 427, 428) coste 538 demanda 538
+( 393, 429) coste 624 demanda 624
+( 429, 387) coste 212 demanda 212
+( 387, 378) coste 345 demanda 345
+( 378, 430) coste 367 demanda 367
+( 413, 431) coste 721 demanda 721
+( 433, 434) coste 1507 demanda 1507
+( 350, 435) coste 328 demanda 328
+( 435, 416) coste 350 demanda 350
+( 416, 436) coste 429 demanda 429
+( 437, 438) coste 296 demanda 296
+( 438, 439) coste 452 demanda 452
+( 439, 440) coste 546 demanda 546
+( 441, 442) coste 370 demanda 370
+( 442, 443) coste 238 demanda 238
+( 444, 445) coste 436 demanda 436
+( 446, 319) coste 389 demanda 389
+( 447, 448) coste 664 demanda 664
+( 448, 449) coste 641 demanda 641
+( 313, 450) coste 266 demanda 266
+( 450, 451) coste 176 demanda 176
+( 451, 420) coste 292 demanda 292
+( 420, 452) coste 372 demanda 372
+( 428, 453) coste 882 demanda 882
+( 454, 455) coste 482 demanda 482
+( 455, 456) coste 296 demanda 296
+( 456, 457) coste 1157 demanda 1157
+( 457, 458) coste 465 demanda 465
+( 459, 460) coste 611 demanda 611
+( 460, 356) coste 627 demanda 627
+( 356, 193) coste 303 demanda 303
+( 362, 461) coste 546 demanda 546
+( 461, 462) coste 666 demanda 666
+( 214, 463) coste 676 demanda 676
+( 463, 464) coste 293 demanda 293
+( 465, 466) coste 726 demanda 726
+( 466, 467) coste 469 demanda 469
+( 467, 468) coste 228 demanda 228
+( 469, 470) coste 353 demanda 353
+( 470, 305) coste 593 demanda 593
+( 214, 471) coste 985 demanda 985
+( 472, 473) coste 645 demanda 645
+( 475, 476) coste 174 demanda 174
+( 143, 477) coste 303 demanda 303
+( 477, 80) coste 288 demanda 288
+( 200, 478) coste 376 demanda 376
+( 478, 93) coste 606 demanda 606
+( 93, 479) coste 327 demanda 327
+( 479, 480) coste 292 demanda 292
+( 480, 481) coste 336 demanda 336
+( 481, 60) coste 1103 demanda 1103
+( 60, 482) coste 222 demanda 222
+( 484, 485) coste 286 demanda 286
+( 485, 486) coste 575 demanda 575
+( 247, 275) coste 285 demanda 285
+( 275, 487) coste 313 demanda 313
+( 487, 488) coste 214 demanda 214
+( 490, 491) coste 235 demanda 235
+( 491, 485) coste 345 demanda 345
+( 485, 22) coste 411 demanda 411
+( 492, 493) coste 636 demanda 636
+( 493, 491) coste 303 demanda 303
+( 491, 494) coste 621 demanda 621
+( 321, 495) coste 300 demanda 300
+( 495, 496) coste 583 demanda 583
+( 496, 351) coste 153 demanda 153
+( 497, 490) coste 668 demanda 668
+( 499, 399) coste 368 demanda 368
+( 399, 500) coste 374 demanda 374
+( 500, 501) coste 272 demanda 272
+( 502, 503) coste 1478 demanda 1478
+( 503, 504) coste 928 demanda 928
+( 505, 506) coste 483 demanda 483
+( 15, 507) coste 189 demanda 189
+( 507, 178) coste 336 demanda 336
+( 178, 508) coste 127 demanda 127
+( 508, 267) coste 217 demanda 217
+( 267, 509) coste 191 demanda 191
+( 509, 6) coste 248 demanda 248
+( 6, 510) coste 524 demanda 524
+( 510, 511) coste 266 demanda 266
+( 512, 397) coste 431 demanda 431
+( 397, 501) coste 603 demanda 603
+( 501, 390) coste 650 demanda 650
+( 42, 513) coste 251 demanda 251
+( 513, 376) coste 244 demanda 244
+( 376, 514) coste 122 demanda 122
+( 380, 346) coste 168 demanda 168
+( 515, 516) coste 2174 demanda 2174
+( 516, 517) coste 422 demanda 422
+( 517, 518) coste 156 demanda 156
+( 518, 519) coste 898 demanda 898
+( 519, 520) coste 164 demanda 164
+( 520, 417) coste 425 demanda 425
+( 417, 352) coste 280 demanda 280
+( 352, 521) coste 333 demanda 333
+( 521, 522) coste 227 demanda 227
+( 522, 523) coste 530 demanda 530
+( 523, 524) coste 328 demanda 328
+( 525, 526) coste 300 demanda 300
+( 526, 527) coste 194 demanda 194
+( 527, 528) coste 170 demanda 170
+( 529, 242) coste 113 demanda 113
+( 242, 292) coste 527 demanda 527
+( 292, 156) coste 819 demanda 819
+( 156, 530) coste 826 demanda 826
+( 530, 398) coste 274 demanda 274
+( 398, 90) coste 360 demanda 360
+( 90, 531) coste 919 demanda 919
+( 531, 532) coste 224 demanda 224
+( 533, 151) coste 184 demanda 184
+( 151, 534) coste 528 demanda 528
+( 535, 446) coste 467 demanda 467
+( 446, 536) coste 859 demanda 859
+( 536, 528) coste 146 demanda 146
+( 528, 369) coste 115 demanda 115
+( 365, 537) coste 279 demanda 279
+( 249, 538) coste 251 demanda 251
+( 538, 225) coste 172 demanda 172
+( 225, 539) coste 642 demanda 642
+( 539, 296) coste 117 demanda 117
+( 296, 540) coste 294 demanda 294
+( 540, 159) coste 675 demanda 675
+( 159, 541) coste 229 demanda 229
+( 541, 542) coste 820 demanda 820
+( 542, 543) coste 520 demanda 520
+( 543, 544) coste 325 demanda 325
+( 544, 545) coste 329 demanda 329
+( 545, 185) coste 478 demanda 478
+( 185, 546) coste 1433 demanda 1433
+( 547, 548) coste 897 demanda 897
+( 548, 549) coste 144 demanda 144
+( 550, 551) coste 339 demanda 339
+( 552, 550) coste 494 demanda 494
+( 550, 234) coste 216 demanda 216
+( 553, 300) coste 712 demanda 712
+( 554, 384) coste 157 demanda 157
+( 384, 288) coste 492 demanda 492
+( 359, 555) coste 668 demanda 668
+( 82, 191) coste 113 demanda 113
+( 191, 556) coste 199 demanda 199
+( 556, 510) coste 243 demanda 243
+( 557, 470) coste 559 demanda 559
+( 470, 474) coste 370 demanda 370
+( 474, 341) coste 230 demanda 230
+( 216, 558) coste 269 demanda 269
+( 558, 307) coste 697 demanda 697
+( 307, 559) coste 563 demanda 563
+( 559, 210) coste 671 demanda 671
+( 210, 560) coste 1623 demanda 1623
+( 561, 295) coste 2004 demanda 2004
+( 295, 259) coste 2191 demanda 2191
+( 259, 562) coste 142 demanda 142
+( 562, 215) coste 352 demanda 352
+( 563, 564) coste 580 demanda 580
+( 565, 276) coste 425 demanda 425
+( 276, 487) coste 145 demanda 145
+( 212, 220) coste 155 demanda 155
+( 220, 463) coste 333 demanda 333
+( 463, 540) coste 433 demanda 433
+( 226, 567) coste 251 demanda 251
+( 567, 548) coste 134 demanda 134
+( 548, 250) coste 168 demanda 168
+( 568, 569) coste 262 demanda 262
+( 565, 571) coste 267 demanda 267
+( 572, 573) coste 592 demanda 592
+( 573, 574) coste 284 demanda 284
+( 574, 360) coste 621 demanda 621
+( 360, 575) coste 621 demanda 621
+( 575, 498) coste 465 demanda 465
+( 498, 576) coste 612 demanda 612
+( 383, 577) coste 378 demanda 378
+( 577, 287) coste 287 demanda 287
+( 287, 365) coste 761 demanda 761
+( 365, 578) coste 380 demanda 380
+( 578, 568) coste 271 demanda 271
+( 568, 579) coste 348 demanda 348
+( 579, 367) coste 542 demanda 542
+( 58, 580) coste 297 demanda 297
+( 580, 439) coste 720 demanda 720
+( 439, 581) coste 203 demanda 203
+( 581, 333) coste 567 demanda 567
+( 333, 517) coste 299 demanda 299
+( 582, 583) coste 115 demanda 115
+( 583, 405) coste 608 demanda 608
+( 405, 69) coste 564 demanda 564
+( 69, 584) coste 152 demanda 152
+( 584, 505) coste 308 demanda 308
+( 505, 585) coste 658 demanda 658
+( 585, 195) coste 939 demanda 939
+( 195, 586) coste 157 demanda 157
+( 586, 207) coste 778 demanda 778
+( 514, 370) coste 506 demanda 506
+( 587, 588) coste 1539 demanda 1539
+( 560, 589) coste 203 demanda 203
+( 589, 590) coste 248 demanda 248
+( 590, 591) coste 1071 demanda 1071
+( 591, 586) coste 397 demanda 397
+( 586, 533) coste 1799 demanda 1799
+( 533, 81) coste 1065 demanda 1065
+( 592, 593) coste 222 demanda 222
+( 593, 594) coste 1515 demanda 1515
+( 595, 441) coste 1020 demanda 1020
+( 136, 39) coste 332 demanda 332
+( 39, 596) coste 264 demanda 264
+( 596, 571) coste 673 demanda 673
+( 571, 278) coste 239 demanda 239
+( 278, 218) coste 227 demanda 227
+( 218, 464) coste 302 demanda 302
+( 464, 298) coste 443 demanda 443
+( 298, 539) coste 251 demanda 251
+( 539, 597) coste 432 demanda 432
+( 597, 566) coste 222 demanda 222
+( 566, 368) coste 829 demanda 829
+( 368, 270) coste 2147 demanda 2147
+( 270, 293) coste 629 demanda 629
+( 531, 598) coste 579 demanda 579
+( 598, 599) coste 286 demanda 286
+( 168, 63) coste 306 demanda 306
+( 63, 170) coste 358 demanda 358
+( 600, 363) coste 557 demanda 557
+( 363, 601) coste 331 demanda 331
+( 602, 575) coste 924 demanda 924
+( 575, 461) coste 576 demanda 576
+( 461, 100) coste 528 demanda 528
+( 603, 604) coste 321 demanda 321
+( 518, 603) coste 336 demanda 336
+( 603, 605) coste 251 demanda 251
+( 156, 364) coste 960 demanda 960
+( 607, 97) coste 601 demanda 601
+( 97, 473) coste 638 demanda 638
+( 473, 572) coste 419 demanda 419
+( 572, 454) coste 387 demanda 387
+( 454, 53) coste 562 demanda 562
+( 53, 608) coste 205 demanda 205
+( 288, 30) coste 697 demanda 697
+( 30, 609) coste 763 demanda 763
+( 609, 610) coste 383 demanda 383
+( 610, 562) coste 449 demanda 449
+( 612, 613) coste 166 demanda 166
+( 613, 449) coste 675 demanda 675
+( 535, 320) coste 578 demanda 578
+( 320, 444) coste 219 demanda 219
+( 364, 157) coste 900 demanda 900
+( 157, 615) coste 322 demanda 322
+( 615, 89) coste 623 demanda 623
+( 89, 598) coste 878 demanda 878
+( 598, 616) coste 348 demanda 348
+( 617, 40) coste 375 demanda 375
+( 601, 503) coste 232 demanda 232
+( 503, 23) coste 1232 demanda 1232
+( 23, 484) coste 403 demanda 403
+( 484, 493) coste 253 demanda 253
+( 493, 618) coste 306 demanda 306
+( 618, 619) coste 275 demanda 275
+( 619, 620) coste 2091 demanda 2091
+( 621, 622) coste 283 demanda 283
+( 622, 460) coste 644 demanda 644
+( 460, 354) coste 504 demanda 504
+( 354, 585) coste 285 demanda 285
+( 585, 623) coste 416 demanda 416
+( 624, 625) coste 711 demanda 711
+( 625, 626) coste 461 demanda 461
+( 627, 628) coste 450 demanda 450
+( 606, 629) coste 496 demanda 496
+( 628, 630) coste 150 demanda 150
+( 630, 631) coste 1378 demanda 1378
+( 632, 325) coste 573 demanda 573
+( 325, 522) coste 297 demanda 297
+( 208, 591) coste 767 demanda 767
+( 591, 196) coste 252 demanda 252
+( 196, 623) coste 941 demanda 941
+( 623, 506) coste 478 demanda 478
+( 506, 633) coste 257 demanda 257
+( 70, 406) coste 558 demanda 558
+( 406, 634) coste 863 demanda 863
+( 634, 628) coste 311 demanda 311
+( 628, 635) coste 261 demanda 261
+( 635, 516) coste 379 demanda 379
+( 516, 423) coste 262 demanda 262
+( 423, 440) coste 404 demanda 404
+( 440, 636) coste 340 demanda 340
+( 636, 637) coste 272 demanda 272
+( 637, 59) coste 195 demanda 195
+( 59, 457) coste 544 demanda 544
+( 457, 563) coste 1068 demanda 1068
+( 563, 94) coste 421 demanda 421
+( 638, 639) coste 386 demanda 386
+( 639, 201) coste 357 demanda 357
+( 201, 640) coste 444 demanda 444
+( 641, 642) coste 917 demanda 917
+( 642, 469) coste 537 demanda 537
+( 644, 224) coste 363 demanda 363
+( 224, 248) coste 169 demanda 169
+( 248, 538) coste 341 demanda 341
+( 538, 549) coste 392 demanda 392
+( 549, 567) coste 144 demanda 144
+( 567, 645) coste 896 demanda 896
+( 646, 605) coste 443 demanda 443
+( 605, 604) coste 277 demanda 277
+( 25, 502) coste 1762 demanda 1762
+( 502, 102) coste 776 demanda 776
+( 102, 576) coste 352 demanda 352
+( 576, 647) coste 1374 demanda 1374
+( 647, 648) coste 365 demanda 365
+( 648, 649) coste 205 demanda 205
+( 652, 415) coste 384 demanda 384
+( 415, 653) coste 476 demanda 476
+( 653, 389) coste 509 demanda 509
+( 389, 500) coste 369 demanda 369
+( 500, 396) coste 655 demanda 655
+( 396, 291) coste 1706 demanda 1706
+( 291, 138) coste 273 demanda 273
+( 138, 428) coste 875 demanda 875
+( 556, 9) coste 928 demanda 928
+( 64, 654) coste 513 demanda 513
+( 654, 523) coste 449 demanda 449
+( 655, 263) coste 205 demanda 205
+( 263, 656) coste 195 demanda 195
+( 656, 657) coste 243 demanda 243
+( 657, 658) coste 1377 demanda 1377
+( 658, 85) coste 315 demanda 315
+( 85, 374) coste 866 demanda 866
+( 374, 659) coste 840 demanda 840
+( 660, 661) coste 463 demanda 463
+( 662, 663) coste 476 demanda 476
+( 466, 666) coste 527 demanda 527
+( 666, 667) coste 479 demanda 479
+( 668, 443) coste 392 demanda 392
+( 443, 669) coste 228 demanda 228
+( 371, 670) coste 805 demanda 805
+( 671, 262) coste 210 demanda 210
+( 262, 343) coste 244 demanda 244
+( 7, 672) coste 281 demanda 281
+( 672, 268) coste 218 demanda 218
+( 268, 180) coste 294 demanda 294
+( 180, 673) coste 344 demanda 344
+( 673, 17) coste 174 demanda 174
+( 17, 525) coste 289 demanda 289
+( 524, 18) coste 307 demanda 307
+( 18, 675) coste 148 demanda 148
+( 675, 181) coste 341 demanda 341
+( 181, 269) coste 251 demanda 251
+( 269, 676) coste 245 demanda 245
+( 676, 8) coste 327 demanda 327
+( 506, 624) coste 629 demanda 629
+( 624, 197) coste 1201 demanda 1201
+( 677, 678) coste 398 demanda 398
+( 678, 654) coste 298 demanda 298
+( 654, 675) coste 356 demanda 356
+( 675, 673) coste 184 demanda 184
+( 673, 432) coste 174 demanda 174
+( 432, 507) coste 149 demanda 149
+( 507, 347) coste 268 demanda 268
+( 529, 679) coste 1857 demanda 1857
+( 680, 681) coste 481 demanda 481
+( 681, 134) coste 1256 demanda 1256
+( 596, 223) coste 324 demanda 324
+( 223, 682) coste 265 demanda 265
+( 577, 288) coste 483 demanda 483
+( 522, 678) coste 754 demanda 754
+( 647, 448) coste 630 demanda 630
+( 683, 684) coste 1087 demanda 1087
+( 684, 468) coste 532 demanda 532
+( 468, 685) coste 289 demanda 289
+( 144, 477) coste 1139 demanda 1139
+( 687, 664) coste 1002 demanda 1002
+( 688, 497) coste 2341 demanda 2341
+( 497, 494) coste 272 demanda 272
+( 494, 689) coste 265 demanda 265
+( 689, 486) coste 333 demanda 333
+( 486, 21) coste 415 demanda 415
+( 21, 504) coste 455 demanda 455
+( 504, 204) coste 257 demanda 257
+( 204, 690) coste 121 demanda 121
+( 690, 600) coste 392 demanda 392
+( 600, 691) coste 683 demanda 683
+( 691, 692) coste 199 demanda 199
+( 692, 472) coste 135 demanda 135
+( 472, 335) coste 698 demanda 698
+( 693, 467) coste 295 demanda 295
+( 467, 694) coste 535 demanda 535
+( 694, 695) coste 1087 demanda 1087
+( 678, 1) coste 863 demanda 863
+( 1, 3) coste 429 demanda 429
+( 3, 696) coste 1201 demanda 1201
+( 696, 697) coste 198 demanda 198
+( 698, 382) coste 196 demanda 196
+( 382, 682) coste 286 demanda 286
+( 682, 286) coste 457 demanda 457
+( 286, 537) coste 822 demanda 822
+( 121, 36) coste 159 demanda 159
+( 36, 11) coste 263 demanda 263
+( 11, 190) coste 857 demanda 857
+( 190, 699) coste 337 demanda 337
+( 700, 189) coste 227 demanda 227
+( 189, 12) coste 829 demanda 829
+( 12, 35) coste 138 demanda 138
+( 35, 121) coste 161 demanda 161
+( 701, 166) coste 430 demanda 430
+( 515, 334) coste 361 demanda 361
+( 334, 482) coste 866 demanda 866
+( 482, 701) coste 357 demanda 357
+( 701, 637) coste 570 demanda 570
+( 637, 580) coste 517 demanda 517
+( 580, 702) coste 249 demanda 249
+( 702, 703) coste 326 demanda 326
+( 703, 704) coste 145 demanda 145
+( 704, 705) coste 156 demanda 156
+( 705, 608) coste 561 demanda 561
+( 608, 706) coste 201 demanda 201
+( 510, 655) coste 227 demanda 227
+( 655, 83) coste 364 demanda 364
+( 707, 147) coste 177 demanda 177
+( 147, 202) coste 322 demanda 322
+( 202, 708) coste 364 demanda 364
+( 708, 95) coste 594 demanda 594
+( 95, 593) coste 612 demanda 612
+( 593, 456) coste 850 demanda 850
+( 456, 55) coste 541 demanda 541
+( 55, 704) coste 184 demanda 184
+( 704, 437) coste 855 demanda 855
+( 437, 330) coste 886 demanda 886
+( 330, 519) coste 195 demanda 195
+( 709, 434) coste 376 demanda 376
+( 710, 140) coste 213 demanda 213
+( 555, 574) coste 613 demanda 613
+( 711, 712) coste 2202 demanda 2202
+( 713, 714) coste 436 demanda 436
+( 573, 715) coste 339 demanda 339
+( 372, 716) coste 393 demanda 393
+( 716, 373) coste 394 demanda 394
+( 717, 656) coste 428 demanda 428
+( 718, 428) coste 521 demanda 521
+( 719, 720) coste 742 demanda 742
+( 87, 381) coste 237 demanda 237
+( 381, 345) coste 183 demanda 183
+( 345, 508) coste 296 demanda 296
+( 92, 283) coste 297 demanda 297
+( 283, 721) coste 259 demanda 259
+( 722, 723) coste 1153 demanda 1153
+( 199, 281) coste 299 demanda 299
+( 281, 724) coste 208 demanda 208
+( 541, 471) coste 343 demanda 343
+( 471, 315) coste 237 demanda 237
+( 315, 725) coste 242 demanda 242
+( 725, 127) coste 355 demanda 355
+( 127, 726) coste 318 demanda 318
+( 726, 422) coste 398 demanda 398
+( 422, 727) coste 329 demanda 329
+( 728, 729) coste 697 demanda 697
+( 24, 730) coste 668 demanda 668
+( 618, 731) coste 764 demanda 764
+( 732, 733) coste 697 demanda 697
+( 734, 622) coste 305 demanda 305
+( 622, 735) coste 305 demanda 305
+( 519, 736) coste 385 demanda 385
+( 736, 737) coste 115 demanda 115
+( 737, 450) coste 373 demanda 373
+( 450, 171) coste 432 demanda 432
+( 171, 68) coste 439 demanda 439
+( 68, 738) coste 118 demanda 118
+( 738, 739) coste 271 demanda 271
+( 739, 67) coste 172 demanda 172
+( 172, 451) coste 434 demanda 434
+( 451, 740) coste 372 demanda 372
+( 740, 741) coste 150 demanda 150
+( 741, 520) coste 370 demanda 370
+( 520, 329) coste 312 demanda 312
+( 329, 436) coste 900 demanda 900
+( 436, 705) coste 856 demanda 856
+( 705, 54) coste 312 demanda 312
+( 54, 455) coste 542 demanda 542
+( 592, 96) coste 611 demanda 611
+( 742, 203) coste 364 demanda 364
+( 203, 146) coste 321 demanda 321
+( 146, 743) coste 174 demanda 174
+( 691, 98) coste 815 demanda 815
+( 361, 692) coste 644 demanda 644
+( 478, 282) coste 249 demanda 249
+( 745, 634) coste 1529 demanda 1529
+( 634, 583) coste 476 demanda 476
+( 583, 314) coste 838 demanda 838
+( 314, 737) coste 218 demanda 218
+( 737, 740) coste 171 demanda 171
+( 740, 419) coste 279 demanda 279
+( 29, 732) coste 681 demanda 681
+( 438, 331) coste 638 demanda 638
+( 676, 672) coste 163 demanda 163
+( 672, 509) coste 212 demanda 212
+( 509, 344) coste 141 demanda 141
+( 344, 261) coste 308 demanda 308
+( 261, 746) coste 268 demanda 268
+( 746, 44) coste 323 demanda 323
+( 44, 658) coste 382 demanda 382
+( 658, 747) coste 170 demanda 170
+( 748, 728) coste 682 demanda 682
+( 245, 130) coste 408 demanda 408
+( 130, 749) coste 381 demanda 381
+( 749, 316) coste 216 demanda 216
+( 638, 750) coste 541 demanda 541
+( 751, 752) coste 220 demanda 220
+( 752, 753) coste 144 demanda 144
+( 50, 104) coste 803 demanda 803
+( 104, 754) coste 490 demanda 490
+( 754, 542) coste 588 demanda 588
+( 542, 755) coste 608 demanda 608
+( 755, 756) coste 407 demanda 407
+( 756, 116) coste 488 demanda 488
+( 757, 726) coste 205 demanda 205
+( 726, 752) coste 113 demanda 113
+( 758, 128) coste 349 demanda 349
+( 128, 757) coste 312 demanda 312
+( 757, 421) coste 442 demanda 442
+( 246, 749) coste 263 demanda 263
+( 749, 161) coste 248 demanda 248
+( 161, 758) coste 276 demanda 276
+( 758, 725) coste 221 demanda 221
+( 636, 759) coste 220 demanda 220
+( 759, 760) coste 287 demanda 287
+( 690, 607) coste 1056 demanda 1056
+( 607, 742) coste 470 demanda 470
+( 742, 708) coste 133 demanda 133
+( 708, 639) coste 863 demanda 863
+( 536, 762) coste 171 demanda 171
+( 762, 763) coste 259 demanda 259
+( 763, 674) coste 300 demanda 300
+( 674, 709) coste 545 demanda 545
+( 28, 687) coste 517 demanda 517
+( 764, 765) coste 399 demanda 399
+( 765, 766) coste 499 demanda 499
+( 766, 33) coste 316 demanda 316
+( 588, 301) coste 2875 demanda 2875
+( 301, 117) coste 979 demanda 979
+( 723, 425) coste 2220 demanda 2220
+( 425, 237) coste 631 demanda 631
+( 237, 153) coste 795 demanda 795
+( 153, 141) coste 1224 demanda 1224
+( 141, 392) coste 855 demanda 855
+( 392, 386) coste 835 demanda 835
+( 386, 377) coste 345 demanda 345
+( 377, 767) coste 384 demanda 384
+( 767, 74) coste 1502 demanda 1502
+( 74, 768) coste 580 demanda 580
+( 768, 50) coste 642 demanda 642
+( 382, 222) coste 297 demanda 297
+( 222, 713) coste 241 demanda 241
+( 713, 39) coste 261 demanda 261
+( 39, 135) coste 383 demanda 383
+( 769, 20) coste 153 demanda 153
+( 20, 770) coste 149 demanda 149
+( 481, 771) coste 459 demanda 459
+( 479, 772) coste 776 demanda 776
+( 480, 773) coste 768 demanda 768
+( 774, 775) coste 258 demanda 258
+( 775, 612) coste 294 demanda 294
+( 612, 648) coste 290 demanda 290
+( 418, 741) coste 279 demanda 279
+( 741, 736) coste 259 demanda 259
+( 736, 777) coste 274 demanda 274
+( 778, 394) coste 342 demanda 342
+( 394, 499) coste 652 demanda 652
+( 648, 613) coste 306 demanda 306
+( 613, 775) coste 298 demanda 298
+( 239, 779) coste 284 demanda 284
+( 779, 780) coste 453 demanda 453
+( 780, 240) coste 268 demanda 268
+( 240, 781) coste 204 demanda 204
+( 426, 782) coste 261 demanda 261
+( 782, 238) coste 302 demanda 302
+( 238, 783) coste 216 demanda 216
+( 782, 779) coste 228 demanda 228
+( 780, 427) coste 485 demanda 485
+( 27, 784) coste 702 demanda 702
+( 453, 447) coste 526 demanda 526
+( 447, 602) coste 846 demanda 846
+( 650, 785) coste 205 demanda 205
+( 785, 786) coste 250 demanda 250
+( 438, 785) coste 138 demanda 138
+( 785, 787) coste 162 demanda 162
+( 788, 65) coste 126 demanda 126
+( 65, 521) coste 1251 demanda 1251
+( 521, 326) coste 201 demanda 201
+( 326, 496) coste 1122 demanda 1122
+( 496, 789) coste 390 demanda 390
+( 789, 790) coste 439 demanda 439
+( 71, 407) coste 668 demanda 668
+( 167, 703) coste 413 demanda 413
+( 332, 581) coste 554 demanda 554
+( 791, 702) coste 162 demanda 162
+( 702, 57) coste 262 demanda 262
+( 57, 792) coste 319 demanda 319
+( 793, 794) coste 426 demanda 426
+( 786, 794) coste 387 demanda 387
+( 794, 661) coste 118 demanda 118
+( 661, 791) coste 132 demanda 132
+( 56, 795) coste 411 demanda 411
+( 777, 582) coste 1024 demanda 1024
+( 582, 627) coste 169 demanda 169
+( 767, 430) coste 379 demanda 379
+( 430, 400) coste 248 demanda 248
+( 400, 653) coste 666 demanda 666
+( 653, 391) coste 703 demanda 703
+( 391, 531) coste 113 demanda 113
+( 796, 797) coste 371 demanda 371
+( 798, 799) coste 367 demanda 367
+( 799, 123) coste 306 demanda 306
+( 174, 597) coste 1032 demanda 1032
+( 119, 800) coste 299 demanda 299
+( 800, 799) coste 302 demanda 302
+( 801, 188) coste 155 demanda 155
+( 188, 802) coste 392 demanda 392
+( 803, 796) coste 564 demanda 564
+( 126, 804) coste 387 demanda 387
+( 805, 798) coste 305 demanda 305
+( 798, 806) coste 291 demanda 291
+( 806, 187) coste 289 demanda 289
+( 807, 75) coste 538 demanda 538
+( 349, 176) coste 808 demanda 808
+( 176, 808) coste 689 demanda 689
+( 186, 809) coste 538 demanda 538
+( 809, 810) coste 674 demanda 674
+( 811, 812) coste 400 demanda 400
+( 768, 807) coste 617 demanda 617
+( 807, 183) coste 478 demanda 478
+( 183, 813) coste 2004 demanda 2004
+( 814, 811) coste 513 demanda 513
+( 811, 755) coste 337 demanda 337
+( 719, 763) coste 241 demanda 241
+( 763, 526) coste 266 demanda 266
+( 526, 15) coste 293 demanda 293
+( 435, 706) coste 853 demanda 853
+( 815, 789) coste 394 demanda 394
+( 40, 816) coste 435 demanda 435
+( 353, 452) coste 367 demanda 367
+( 452, 66) coste 815 demanda 815
+( 66, 817) coste 193 demanda 193
+( 817, 734) coste 530 demanda 530
+( 734, 735) coste 228 demanda 228
+( 818, 716) coste 275 demanda 275
+( 716, 513) coste 186 demanda 186
+( 513, 86) coste 360 demanda 360
+( 86, 746) coste 369 demanda 369
+( 746, 671) coste 316 demanda 316
+( 671, 657) coste 630 demanda 630
+( 657, 819) coste 340 demanda 340
+( 733, 4) coste 565 demanda 565
+( 4, 192) coste 500 demanda 500
+( 52, 795) coste 1420 demanda 1420
+( 795, 820) coste 1715 demanda 1715
+( 821, 797) coste 876 demanda 876
+( 797, 244) coste 316 demanda 316
+( 822, 823) coste 123 demanda 123
+( 823, 824) coste 484 demanda 484
+( 82, 696) coste 636 demanda 636
+( 696, 206) coste 2104 demanda 2104
+( 825, 309) coste 1441 demanda 1441
+( 309, 304) coste 395 demanda 395
+( 304, 557) coste 554 demanda 554
+( 557, 642) coste 402 demanda 402
+( 642, 684) coste 468 demanda 468
+( 694, 663) coste 264 demanda 264
+( 666, 441) coste 332 demanda 332
+( 441, 826) coste 530 demanda 530
+( 826, 668) coste 241 demanda 241
+( 668, 689) coste 301 demanda 301
+( 209, 827) coste 692 demanda 692
+( 206, 558) coste 1254 demanda 1254
+( 558, 302) coste 1264 demanda 1264
+( 302, 828) coste 852 demanda 852
+( 829, 408) coste 698 demanda 698
+( 408, 72) coste 662 demanda 662
+( 72, 830) coste 249 demanda 249
+( 625, 831) coste 166 demanda 166
+( 824, 832) coste 334 demanda 334
+( 827, 559) coste 375 demanda 375
+( 336, 358) coste 267 demanda 267
+( 358, 815) coste 369 demanda 369
+( 495, 444) coste 508 demanda 508
+( 444, 433) coste 185 demanda 185
+( 433, 833) coste 144 demanda 144
+( 833, 719) coste 510 demanda 510
+( 348, 527) coste 292 demanda 292
+( 527, 762) coste 272 demanda 272
+( 762, 317) coste 250 demanda 250
+( 805, 800) coste 365 demanda 365
+( 800, 122) coste 311 demanda 311
+( 122, 34) coste 665 demanda 665
+( 834, 835) coste 478 demanda 478
+( 835, 766) coste 581 demanda 581
+( 766, 125) coste 810 demanda 810
+( 125, 802) coste 170 demanda 170
+( 802, 112) coste 717 demanda 717
+( 112, 809) coste 611 demanda 611
+( 523, 709) coste 133 demanda 133
+( 720, 833) coste 701 demanda 701
+( 833, 318) coste 231 demanda 231
+( 318, 836) coste 297 demanda 297
+( 837, 727) coste 262 demanda 262
+( 727, 803) coste 1066 demanda 1066
+( 803, 253) coste 340 demanda 340
+( 253, 680) coste 726 demanda 726
+( 838, 640) coste 578 demanda 578
+( 839, 830) coste 2410 demanda 2410
+( 830, 633) coste 953 demanda 953
+( 633, 584) coste 428 demanda 428
+( 584, 738) coste 1096 demanda 1096
+( 739, 817) coste 596 demanda 596
+( 817, 788) coste 244 demanda 244
+( 788, 64) coste 774 demanda 774
+( 475, 840) coste 1780 demanda 1780
+( 609, 578) coste 664 demanda 664
+( 841, 442) coste 568 demanda 568
+( 442, 826) coste 391 demanda 391
+( 835, 765) coste 967 demanda 967
+( 765, 126) coste 778 demanda 778
+( 126, 111) coste 823 demanda 823
+( 111, 810) coste 615 demanda 615
+( 810, 546) coste 851 demanda 851
+( 546, 110) coste 606 demanda 606
+( 110, 46) coste 775 demanda 775
+( 46, 813) coste 621 demanda 621
+( 813, 77) coste 2177 demanda 2177
+( 44, 823) coste 804 demanda 804
+( 579, 610) coste 616 demanda 616
+( 530, 615) coste 498 demanda 498
+( 105, 842) coste 484 demanda 484
+( 842, 543) coste 353 demanda 353
+( 616, 843) coste 489 demanda 489
+( 843, 681) coste 100 demanda 100
+( 49, 106) coste 727 demanda 727
+( 106, 844) coste 476 demanda 476
+( 844, 544) coste 364 demanda 364
+( 806, 801) coste 360 demanda 360
+( 616, 845) coste 451 demanda 451
+( 843, 845) coste 430 demanda 430
+( 845, 136) coste 1119 demanda 1119
+( 108, 846) coste 475 demanda 475
+( 847, 545) coste 291 demanda 291
+( 545, 848) coste 359 demanda 359
+( 107, 48) coste 719 demanda 719
+( 48, 849) coste 216 demanda 216
+( 850, 184) coste 521 demanda 521
+( 184, 846) coste 249 demanda 249
+( 846, 848) coste 235 demanda 235
+( 848, 844) coste 356 demanda 356
+( 842, 754) coste 291 demanda 291
+( 812, 756) coste 344 demanda 344
+LISTA_ARISTAS_NOREQ :
+( 13, 14) coste 1453
+( 16, 17) coste 174
+( 22, 23) coste 294
+( 38, 39) coste 371
+( 56, 57) coste 323
+( 85, 43) coste 373
+( 113, 114) coste 373
+( 130, 131) coste 305
+( 143, 144) coste 1127
+( 146, 147) coste 126
+( 162, 163) coste 346
+( 167, 168) coste 1422
+( 183, 47) coste 605
+( 193, 194) coste 262
+( 195, 196) coste 397
+( 203, 204) coste 1598
+( 152, 207) coste 948
+( 220, 213) coste 286
+( 230, 231) coste 543
+( 231, 232) coste 743
+( 235, 133) coste 135
+( 133, 236) coste 676
+( 250, 251) coste 350
+( 232, 253) coste 456
+( 258, 259) coste 207
+( 271, 217) coste 281
+( 286, 287) coste 300
+( 219, 277) coste 326
+( 307, 301) coste 138
+( 316, 247) coste 262
+( 330, 331) coste 609
+( 337, 145) coste 310
+( 354, 355) coste 738
+( 323, 359) coste 1024
+( 365, 30) coste 490
+( 118, 366) coste 356
+( 175, 116) coste 1019
+( 380, 381) coste 270
+( 384, 31) coste 909
+( 386, 387) coste 357
+( 389, 390) coste 452
+( 399, 388) coste 130
+( 388, 379) coste 345
+( 400, 401) coste 229
+( 410, 401) coste 1484
+( 419, 420) coste 354
+( 162, 421) coste 190
+( 430, 413) coste 416
+( 179, 432) coste 336
+( 432, 16) coste 167
+( 436, 437) coste 199
+( 468, 469) coste 482
+( 474, 475) coste 1071
+( 80, 200) coste 268
+( 482, 483) coste 573
+( 489, 490) coste 259
+( 101, 462) coste 286
+( 462, 498) coste 418
+( 429, 499) coste 132
+( 501, 90) coste 570
+( 514, 380) coste 176
+( 524, 525) coste 218
+( 192, 533) coste 181
+( 537, 249) coste 309
+( 487, 212) coste 171
+( 566, 226) coste 758
+( 250, 568) coste 327
+( 570, 132) coste 378
+( 132, 565) coste 582
+( 517, 582) coste 837
+( 588, 560) coste 309
+( 100, 601) coste 281
+( 605, 606) coste 227
+( 562, 366) coste 262
+( 611, 612) coste 335
+( 449, 535) coste 137
+( 404, 614) coste 388
+( 623, 624) coste 404
+( 633, 70) coste 190
+( 94, 638) coste 227
+( 643, 235) coste 488
+( 650, 651) coste 518
+( 9, 64) coste 730
+( 664, 665) coste 2165
+( 525, 674) coste 235
+( 197, 590) coste 166
+( 134, 596) coste 579
+( 682, 577) coste 292
+( 477, 686) coste 122
+( 706, 168) coste 280
+( 434, 325) coste 153
+( 140, 555) coste 284
+( 67, 172) coste 440
+( 455, 592) coste 850
+( 96, 742) coste 594
+( 282, 744) coste 314
+( 635, 630) coste 402
+( 759, 761) coste 501
+( 619, 489) coste 288
+( 489, 711) coste 701
+( 775, 776) coste 477
+( 602, 338) coste 424
+( 4, 788) coste 968
+( 163, 796) coste 185
+( 799, 801) coste 297
+( 115, 186) coste 1186
+( 729, 5) coste 565
+( 5, 192) coste 499
+( 735, 5) coste 406
+( 684, 694) coste 288
+( 663, 666) coste 218
+( 589, 209) coste 1416
+( 830, 625) coste 841
+( 815, 495) coste 287
+( 709, 720) coste 426
+( 826, 465) coste 198
+( 544, 814) coste 668
+( 814, 114) coste 889
+( 114, 806) coste 309
+( 848, 107) coste 475
+( 844, 842) coste 405
+DEPOSITO : 1
+LISTA_RACIMO : 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 539, 296) ( 225, 539) ( 298, 299) ( 297, 298) ( 296, 297) ( 298, 539) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 3, 4) ( 4, 5) ( 733, 4) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 593, 594) ( 95, 593) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 393, 394) ( 778, 394) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 672, 268) ( 672, 509) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 623, 506) ( 506, 633) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 630, 631) ( 628, 630) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 590, 591) ( 196, 197) ( 591, 196) ( 196, 623) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 464, 298) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 642, 469) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 606, 629) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 548, 250) ( 249, 538) ( 248, 249) ( 249, 250) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 247, 275) ( 246, 247) ( 131, 246) ( 245, 131) ( 133, 134) ( 131, 132) ( 132, 133) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 372, 716) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 713, 714) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 627, 628) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 437, 330) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 356, 193) ( 192, 193) ( 4, 192) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 450, 451) ( 451, 740) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 259, 562) ( 540, 159) ( 296, 540) ( 295, 296) ( 259, 260) ( 295, 259) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 547, 548) ( 548, 549) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 596, 571) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 617, 40) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 475, 476) ( 475, 840) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 538, 225) ( 228, 270) ( 227, 228) ( 226, 227) ( 225, 226) ( 224, 225) ( 223, 224) ( 221, 222) ( 222, 223) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 426, 427) ( 780, 427) ( 780, 240) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 615, 89) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 444, 445) ( 444, 433) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 494, 689) ( 668, 689) 
+#ARISTAS_EN_RACIMO : 10 ARISTAS : ( 45, 46) ( 110, 46) ( 47, 109) ( 108, 109) ( 107, 108) ( 106, 107) ( 107, 48) ( 46, 47) ( 48, 849) ( 47, 48) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 557, 470) ( 557, 642) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 416, 436) ( 436, 705) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 398, 90) ( 88, 89) ( 89, 90) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 556, 510) ( 510, 511) ( 6, 510) ( 510, 655) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 470, 474) ( 469, 470) ( 470, 305) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 465, 466) ( 466, 467) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 639, 201) ( 638, 639) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 541, 542) ( 754, 542) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 108, 846) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 834, 835) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 591, 586) ( 208, 591) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 598, 599) ( 598, 616) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 53, 608) ( 705, 608) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 62, 63) ( 168, 63) ( 63, 170) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 838, 640) ( 201, 640) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 466, 666) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 313, 450) ( 311, 314) ( 311, 312) ( 313, 311) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 586, 533) ( 151, 534) ( 533, 151) ( 152, 307) ( 151, 152) ( 206, 152) ( 586, 207) ( 207, 208) ( 208, 209) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 36, 11) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 407, 408) ( 408, 72) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 655, 83) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 596, 223) ( 223, 682) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 789, 790) ( 358, 323) ( 815, 789) ( 358, 815) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 579, 367) ( 258, 367) ( 366, 258) ( 257, 258) ( 228, 229) ( 257, 228) ( 224, 248) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 490, 491) ( 491, 485) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 644, 224) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 647, 448) ( 498, 576) ( 102, 576) ( 576, 647) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 531, 532) ( 90, 531) ( 501, 390) ( 390, 391) ( 391, 531) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 429, 387) ( 387, 388) ( 388, 389) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 84, 85) ( 658, 85) ( 85, 374) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 701, 637) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 728, 729) ( 748, 728) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 818, 716) ( 716, 513) ( 42, 513) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 480, 773) ( 481, 771) ( 480, 481) ( 479, 480) ( 478, 93) ( 479, 772) ( 93, 479) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 587, 588) ( 588, 301) ( 117, 118) ( 301, 117) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 454, 455) ( 54, 455) 
+#ARISTAS_EN_RACIMO : 12 ARISTAS : ( 535, 320) ( 535, 446) ( 446, 319) ( 322, 357) ( 323, 324) ( 322, 323) ( 321, 322) ( 320, 321) ( 319, 320) ( 318, 319) ( 833, 318) ( 320, 444) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 451, 420) ( 172, 451) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 214, 471) ( 471, 315) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 505, 585) ( 585, 623) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 484, 485) ( 485, 486) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 159, 541) ( 160, 316) ( 315, 160) ( 176, 808) ( 175, 176) ( 174, 175) ( 159, 174) ( 159, 160) ( 160, 161) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 824, 832) ( 822, 823) ( 823, 824) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 288, 30) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 202, 708) 
+#ARISTAS_EN_RACIMO : 13 ARISTAS : ( 102, 103) ( 101, 102) ( 100, 101) ( 99, 100) ( 98, 99) ( 97, 98) ( 96, 97) ( 95, 96) ( 94, 95) ( 93, 94) ( 91, 92) ( 92, 93) ( 601, 503) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 692, 472) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 542, 543) ( 842, 543) ( 543, 544) ( 844, 544) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 460, 354) ( 622, 460) ( 195, 586) ( 585, 195) ( 355, 356) ( 194, 195) ( 355, 194) ( 459, 460) ( 460, 356) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 57, 792) ( 791, 702) ( 702, 57) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 383, 577) ( 577, 288) ( 577, 287) ( 554, 384) ( 383, 384) ( 287, 288) ( 384, 288) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 156, 530) ( 530, 615) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 307, 559) ( 827, 559) ( 589, 590) ( 560, 589) ( 210, 560) ( 559, 210) ( 209, 210) ( 209, 827) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 538, 549) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 389, 500) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 595, 441) ( 441, 826) ( 826, 668) ( 441, 442) ( 666, 441) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 550, 234) ( 233, 234) ( 234, 235) ( 550, 551) ( 552, 550) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 625, 626) ( 625, 831) ( 624, 197) ( 624, 625) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 518, 519) ( 519, 736) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 505, 506) ( 506, 624) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 421, 422) ( 757, 421) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 200, 478) ( 201, 202) ( 200, 201) ( 198, 199) ( 199, 200) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 619, 620) ( 711, 712) ( 618, 619) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 267, 509) ( 344, 266) ( 509, 344) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 522, 678) ( 632, 325) ( 325, 522) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 821, 797) ( 163, 164) ( 796, 797) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 185, 546) ( 810, 546) ( 109, 110) ( 546, 110) ( 545, 185) ( 184, 185) ( 109, 184) ( 850, 184) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 696, 697) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 719, 720) ( 720, 833) ( 719, 763) ( 833, 719) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 795, 820) ( 56, 795) ( 52, 795) ( 55, 56) ( 54, 55) ( 52, 53) ( 53, 54) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 613, 775) ( 774, 775) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 759, 760) ( 636, 759) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 843, 845) ( 681, 134) ( 843, 681) ( 616, 845) ( 616, 843) ( 680, 681) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 509, 6) ( 676, 8) ( 8, 9) ( 6, 7) ( 7, 8) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 473, 572) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 402, 411) ( 415, 402) ( 411, 412) ( 401, 411) ( 401, 402) ( 402, 403) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 433, 434) ( 433, 833) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 641, 642) ( 642, 684) ( 684, 468) ( 683, 684) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 443, 669) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 149, 150) ( 147, 148) ( 148, 149) ( 707, 147) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 726, 752) ( 128, 757) ( 751, 752) ( 757, 726) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 153, 154) ( 141, 142) ( 153, 141) ( 237, 153) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 608, 706) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 722, 723) ( 723, 425) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 523, 524) ( 524, 18) ( 673, 432) ( 17, 18) ( 673, 17) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 811, 812) ( 814, 811) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 740, 741) ( 520, 417) ( 418, 419) ( 417, 418) ( 740, 419) ( 418, 741) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 292, 156) ( 155, 292) ( 157, 158) ( 155, 156) ( 156, 157) ( 157, 615) ( 156, 364) ( 364, 157) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 60, 482) ( 334, 482) 
+#ARISTAS_EN_RACIMO : 13 ARISTAS : ( 530, 398) ( 397, 501) ( 512, 397) ( 500, 501) ( 399, 500) ( 499, 399) ( 395, 399) ( 397, 398) ( 396, 397) ( 395, 396) ( 394, 395) ( 394, 499) ( 500, 396) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 374, 659) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 597, 566) ( 174, 597) ( 539, 597) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 628, 635) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 709, 434) ( 674, 709) ( 763, 674) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 492, 493) ( 493, 491) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 809, 810) ( 112, 809) ( 111, 112) ( 111, 810) ( 126, 111) ( 126, 804) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 635, 516) ( 333, 517) ( 517, 518) ( 516, 517) ( 515, 516) ( 423, 424) ( 516, 423) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 268, 180) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 350, 435) ( 435, 706) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 119, 800) ( 120, 121) ( 119, 120) ( 116, 119) ( 114, 115) ( 115, 116) ( 120, 122) ( 122, 34) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 184, 846) ( 846, 848) ( 848, 844) ( 544, 545) ( 847, 545) ( 545, 848) 
+#ARISTAS_EN_RACIMO : 11 ARISTAS : ( 371, 670) ( 528, 369) ( 446, 536) ( 380, 346) ( 369, 380) ( 376, 371) ( 372, 373) ( 371, 372) ( 370, 371) ( 369, 370) ( 536, 528) 
+#ARISTAS_EN_RACIMO : 15 ARISTAS : ( 507, 178) ( 180, 181) ( 178, 179) ( 179, 180) ( 508, 267) ( 178, 508) ( 345, 508) ( 346, 347) ( 345, 346) ( 266, 345) ( 268, 269) ( 267, 268) ( 266, 267) ( 264, 265) ( 265, 266) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 89, 598) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 636, 637) ( 580, 439) ( 580, 702) ( 58, 580) ( 637, 580) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 354, 585) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 568, 579) ( 579, 610) ( 568, 569) ( 578, 568) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 185, 186) ( 186, 809) ( 188, 802) ( 186, 113) ( 112, 113) ( 802, 112) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 497, 490) ( 688, 497) ( 491, 494) ( 497, 494) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 113, 187) ( 806, 187) ( 187, 188) ( 806, 801) ( 801, 188) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 321, 495) ( 495, 444) ( 326, 496) ( 495, 496) ( 496, 789) 
+#ARISTAS_EN_RACIMO : 11 ARISTAS : ( 188, 124) ( 124, 125) ( 123, 124) ( 122, 123) ( 805, 800) ( 800, 122) ( 805, 798) ( 799, 123) ( 800, 799) ( 798, 799) ( 798, 806) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 124, 33) ( 36, 37) ( 35, 36) ( 33, 34) ( 34, 35) ( 12, 35) ( 121, 36) ( 35, 121) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 87, 381) ( 264, 87) ( 381, 265) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 653, 391) ( 653, 389) ( 415, 653) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 432, 507) ( 15, 16) ( 15, 507) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 766, 125) ( 835, 766) ( 766, 33) ( 765, 766) ( 835, 765) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 59, 457) ( 592, 593) ( 592, 96) ( 457, 458) ( 456, 457) ( 593, 456) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 204, 690) ( 363, 601) ( 600, 363) ( 690, 600) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 21, 504) 
+#ARISTAS_EN_RACIMO : 15 ARISTAS : ( 218, 464) ( 463, 540) ( 220, 463) ( 463, 464) ( 214, 463) ( 247, 214) ( 213, 214) ( 211, 212) ( 212, 213) ( 212, 220) ( 297, 219) ( 217, 272) ( 219, 220) ( 217, 218) ( 218, 219) 
+#ARISTAS_EN_RACIMO : 17 ARISTAS : ( 496, 351) ( 350, 351) ( 169, 170) ( 170, 350) ( 352, 521) ( 417, 352) ( 435, 416) ( 328, 417) ( 416, 328) ( 327, 352) ( 351, 327) ( 329, 330) ( 328, 329) ( 327, 328) ( 326, 327) ( 521, 326) ( 325, 326) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 529, 242) ( 529, 679) ( 242, 292) ( 243, 364) ( 242, 243) ( 292, 243) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 657, 819) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 454, 53) ( 572, 454) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 689, 486) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 205, 206) ( 206, 558) ( 696, 206) ( 82, 696) 
+#ARISTAS_EN_RACIMO : 11 ARISTAS : ( 817, 734) ( 739, 817) ( 66, 817) ( 420, 452) ( 269, 64) ( 452, 66) ( 66, 67) ( 65, 66) ( 64, 65) ( 817, 788) ( 788, 64) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 566, 368) ( 561, 295) ( 294, 175) ( 368, 294) ( 293, 294) ( 294, 295) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 484, 493) ( 493, 618) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 621, 622) ( 734, 622) ( 734, 735) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 18, 675) ( 675, 181) ( 269, 676) ( 181, 269) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 708, 95) ( 708, 639) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 413, 414) ( 413, 431) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 23, 484) ( 25, 26) ( 23, 24) ( 24, 25) ( 25, 502) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 658, 747) ( 43, 44) ( 44, 823) ( 44, 658) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 408, 409) ( 829, 408) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 368, 270) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 521, 522) ( 523, 709) ( 522, 523) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 785, 787) ( 650, 785) ( 785, 786) ( 660, 661) ( 786, 794) ( 793, 794) ( 661, 791) ( 794, 661) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 11, 190) ( 700, 189) ( 190, 699) ( 189, 190) ( 13, 189) ( 33, 13) ( 12, 13) ( 10, 11) ( 11, 12) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 581, 333) ( 439, 581) ( 333, 334) ( 332, 333) ( 331, 332) ( 332, 581) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 698, 382) ( 382, 682) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 27, 784) ( 29, 732) ( 27, 28) ( 28, 29) ( 687, 664) ( 28, 687) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 74, 768) ( 767, 74) ( 768, 807) ( 807, 183) ( 76, 183) ( 807, 75) ( 182, 76) ( 74, 75) ( 75, 76) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 527, 528) ( 536, 762) ( 527, 762) ( 762, 317) ( 762, 763) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 777, 582) ( 582, 627) ( 582, 583) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 702, 703) ( 701, 166) ( 167, 703) ( 165, 166) ( 166, 167) 
+#ARISTAS_EN_RACIMO : 11 ARISTAS : ( 768, 50) ( 104, 105) ( 105, 842) ( 842, 754) ( 104, 754) ( 105, 106) ( 50, 51) ( 49, 50) ( 48, 49) ( 49, 106) ( 106, 844) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 691, 692) ( 461, 462) ( 362, 461) ( 99, 363) ( 362, 99) ( 361, 362) ( 361, 692) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 64, 654) ( 678, 654) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 610, 562) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 330, 519) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 244, 245) ( 797, 244) ( 244, 162) ( 129, 162) ( 161, 129) ( 129, 130) ( 127, 128) ( 128, 129) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 648, 613) ( 648, 649) ( 647, 648) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 717, 656) ( 656, 657) ( 657, 658) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 675, 673) ( 180, 673) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 486, 21) ( 769, 20) ( 485, 22) ( 20, 770) ( 21, 22) ( 19, 20) ( 20, 21) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 572, 573) ( 573, 715) ( 139, 140) ( 710, 140) ( 573, 574) ( 555, 574) ( 359, 555) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 736, 737) ( 314, 737) ( 741, 736) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 437, 438) ( 438, 331) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 253, 254) ( 253, 680) ( 252, 232) ( 803, 253) ( 837, 727) ( 803, 796) ( 727, 803) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 716, 373) 
+#ARISTAS_EN_RACIMO : 12 ARISTAS : ( 171, 68) ( 68, 738) ( 70, 406) ( 406, 407) ( 71, 407) ( 72, 73) ( 71, 72) ( 70, 71) ( 69, 70) ( 68, 69) ( 67, 68) ( 738, 739) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 742, 708) ( 146, 743) ( 742, 203) ( 202, 203) ( 145, 146) ( 203, 146) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 515, 334) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 703, 704) ( 704, 437) ( 705, 54) ( 55, 704) ( 704, 705) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 189, 12) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 262, 343) ( 261, 262) ( 262, 263) ( 746, 671) ( 671, 262) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 378, 430) ( 387, 378) ( 378, 379) ( 377, 378) ( 377, 767) ( 767, 430) ( 430, 400) ( 379, 400) ( 400, 653) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 222, 713) ( 39, 135) ( 713, 39) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 745, 634) ( 406, 634) ( 634, 628) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 147, 202) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 533, 81) ( 82, 191) ( 191, 192) ( 82, 83) ( 81, 82) ( 83, 191) ( 191, 556) ( 556, 9) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 503, 23) ( 502, 503) ( 503, 504) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 690, 607) ( 607, 97) ( 97, 473) ( 472, 473) ( 472, 335) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 273, 231) ( 231, 274) ( 553, 300) ( 300, 230) ( 255, 256) ( 230, 255) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 468, 685) ( 467, 468) ( 693, 467) 
+#ARISTAS_EN_RACIMO : 15 ARISTAS : ( 86, 746) ( 40, 816) ( 514, 370) ( 376, 514) ( 87, 376) ( 374, 375) ( 41, 374) ( 373, 41) ( 86, 87) ( 43, 86) ( 42, 43) ( 40, 41) ( 41, 42) ( 513, 376) ( 513, 86) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 392, 386) ( 386, 377) ( 393, 429) ( 392, 393) ( 141, 392) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 602, 575) ( 575, 461) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 764, 765) ( 125, 802) ( 125, 126) ( 765, 126) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 694, 663) ( 694, 695) ( 467, 694) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 646, 605) ( 518, 603) ( 605, 604) ( 603, 604) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 69, 584) ( 584, 738) ( 72, 830) ( 839, 830) ( 830, 633) ( 584, 505) ( 633, 584) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 668, 443) ( 442, 443) ( 841, 442) ( 442, 826) 
+#ARISTAS_EN_RACIMO : 8 ARISTAS : ( 285, 286) ( 682, 286) ( 287, 365) ( 365, 537) ( 286, 537) ( 30, 609) ( 365, 578) ( 609, 578) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 283, 721) ( 199, 281) ( 92, 283) ( 283, 284) ( 282, 283) ( 280, 281) ( 281, 282) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 144, 477) ( 143, 477) ( 79, 80) ( 477, 80) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 654, 675) ( 654, 523) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 291, 155) ( 137, 138) ( 291, 138) ( 396, 291) 
+#ARISTAS_EN_RACIMO : 9 ARISTAS : ( 405, 69) ( 405, 406) ( 404, 405) ( 171, 404) ( 171, 172) ( 172, 173) ( 583, 314) ( 583, 405) ( 634, 583) 
+#ARISTAS_EN_RACIMO : 11 ARISTAS : ( 779, 780) ( 782, 238) ( 782, 779) ( 239, 779) ( 240, 241) ( 240, 781) ( 238, 783) ( 425, 237) ( 239, 240) ( 237, 238) ( 238, 239) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 138, 428) ( 428, 453) ( 427, 428) ( 718, 428) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 613, 449) ( 448, 449) ( 447, 448) ( 453, 447) 
+#ARISTAS_EN_RACIMO : 6 ARISTAS : ( 637, 59) ( 481, 60) ( 60, 61) ( 59, 60) ( 57, 58) ( 58, 59) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 526, 527) ( 763, 526) ( 525, 526) ( 526, 15) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 226, 567) ( 567, 645) ( 567, 548) ( 549, 567) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 277, 136) ( 134, 135) ( 845, 136) ( 135, 136) ( 136, 39) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 758, 725) ( 161, 758) ( 246, 749) ( 749, 161) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 457, 563) ( 563, 564) ( 563, 94) 
+#ARISTAS_EN_RACIMO : 13 ARISTAS : ( 278, 218) ( 565, 571) ( 276, 487) ( 565, 276) ( 487, 488) ( 275, 487) ( 279, 290) ( 289, 279) ( 278, 279) ( 277, 278) ( 275, 276) ( 276, 277) ( 571, 278) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 775, 612) ( 612, 648) ( 612, 613) 
+#ARISTAS_EN_RACIMO : 7 ARISTAS : ( 301, 302) ( 302, 828) ( 558, 307) ( 558, 302) ( 562, 215) ( 215, 216) ( 216, 558) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 756, 116) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 758, 128) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 305, 306) ( 304, 305) ( 304, 557) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 248, 538) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 308, 309) ( 825, 309) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 309, 310) ( 303, 304) ( 309, 304) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 423, 440) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 755, 756) ( 811, 755) ( 542, 755) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 3, 696) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 50, 104) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 440, 636) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 317, 318) ( 318, 836) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 638, 750) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 749, 316) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 130, 749) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 245, 130) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 425, 426) ( 426, 782) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 329, 436) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 65, 521) ( 788, 65) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 746, 44) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 261, 746) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 344, 261) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 39, 596) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 7, 672) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 676, 672) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 461, 100) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 335, 336) ( 336, 358) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 338, 339) ( 447, 602) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 531, 598) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 662, 663) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 342, 343) ( 343, 344) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 439, 440) ( 438, 439) ( 438, 785) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 666, 667) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 478, 282) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 1, 3) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 381, 345) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 347, 348) ( 348, 527) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 293, 349) ( 176, 177) ( 349, 176) 
+#ARISTAS_EN_RACIMO : 4 ARISTAS : ( 183, 813) ( 46, 813) ( 813, 77) ( 77, 78) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 652, 415) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 17, 525) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 519, 520) ( 741, 520) ( 520, 329) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 352, 353) ( 353, 452) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 270, 293) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 600, 691) ( 691, 98) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 607, 742) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 609, 610) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 671, 657) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 812, 756) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 739, 67) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 504, 204) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 502, 102) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 455, 456) ( 456, 55) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 450, 171) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 603, 605) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 367, 227) ( 227, 368) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 737, 450) ( 736, 777) ( 737, 740) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 622, 735) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 474, 341) ( 340, 341) ( 341, 19) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 732, 733) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 618, 731) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 24, 730) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 315, 725) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 422, 727) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 726, 422) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 725, 127) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 677, 678) ( 1, 2) ( 678, 1) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 263, 656) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 281, 724) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 541, 471) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 507, 347) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 655, 263) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 127, 726) ( 752, 753) 
+#ARISTAS_EN_RACIMO : 2 ARISTAS : ( 382, 383) ( 382, 222) 
+#ARISTAS_EN_RACIMO : 5 ARISTAS : ( 575, 498) ( 360, 575) ( 574, 360) ( 359, 360) ( 360, 361) 
+#ARISTAS_EN_RACIMO : 3 ARISTAS : ( 31, 385) ( 30, 31) ( 31, 32) 
+#ARISTAS_EN_RACIMO : 1 ARISTAS : ( 482, 701) 
