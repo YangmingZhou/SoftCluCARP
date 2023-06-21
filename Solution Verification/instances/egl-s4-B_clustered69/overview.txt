@@ -1,0 +1,2 @@
+egl-s4-B_clustered69.dat
+STOP

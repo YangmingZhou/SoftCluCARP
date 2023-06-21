@@ -1,0 +1,2 @@
+sol-egl-s3-C_clustered61-Full.100.dat
+STOP
