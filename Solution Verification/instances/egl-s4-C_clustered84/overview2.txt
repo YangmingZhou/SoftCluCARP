@@ -1,0 +1,2 @@
+sol-egl-s4-C_clustered84-Full.100.dat
+STOP

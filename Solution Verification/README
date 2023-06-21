@@ -1,0 +1,2 @@
+After running and entering the console interface, follow the prompts to select the arithmetic cases to be checked (7 in total).
+If the console shows "success!", the check is passed, and if not, the specific conflict problem is displayed.

@@ -1,0 +1,1062 @@
+egl-s4-C_clustered84.dat	23892.000000	214.272995 300.040985		0
+Trip 0
+DEM= 120
+DIST= 546.000000
+0 demand 0.000000 clientNum 1
+49 demand 53.000000 clientNum 2
+75 demand 67.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 5
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 168 clusterID: 75
+arcID: 108 clusterID: 49
+arcID: 110 clusterID: 49
+arcID: 0 clusterID: 0
+arcSize: 5
+Arc trip:
+( 1, 1) demand 0.000000
+( 4, 124) demand 67.000000
+( 85, 86) demand 20.000000
+( 86, 88) demand 33.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 546.000000
+
+Trip 1
+DEM= 119
+DIST= 383.000000
+0 demand 0.000000 clientNum 1
+70 demand 73.000000 clientNum 2
+76 demand 46.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 119
+totalCustomerNum: 6
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 155 clusterID: 70
+arcID: 169 clusterID: 76
+arcID: 175 clusterID: 76
+arcID: 156 clusterID: 70
+arcID: 0 clusterID: 0
+arcSize: 6
+Arc trip:
+( 1, 1) demand 0.000000
+( 117, 118) demand 49.000000
+( 124, 126) demand 11.000000
+( 126, 130) demand 35.000000
+( 119, 117) demand 24.000000
+( 1, 1) demand 0.000000
+cliDemand: 119
+totalArcDist: 383.000000
+
+Trip 2
+DEM= 120
+DIST= 1128.000000
+0 demand 0.000000 clientNum 1
+13 demand 67.000000 clientNum 2
+4 demand 12.000000 clientNum 1
+8 demand 41.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 27 clusterID: 13
+arcID: 25 clusterID: 13
+arcID: 17 clusterID: 8
+arcID: 5 clusterID: 4
+arcID: 10 clusterID: 8
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 27, 25) demand 19.000000
+( 25, 26) demand 48.000000
+( 19, 10) demand 28.000000
+( 9, 10) demand 12.000000
+( 10, 15) demand 13.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 1128.000000
+
+Trip 3
+DEM= 119
+DIST= 962.000000
+0 demand 0.000000 clientNum 1
+34 demand 34.000000 clientNum 2
+3 demand 85.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 119
+totalCustomerNum: 6
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 75 clusterID: 34
+arcID: 68 clusterID: 34
+arcID: 4 clusterID: 3
+arcID: 6 clusterID: 3
+arcID: 0 clusterID: 0
+arcSize: 6
+Arc trip:
+( 1, 1) demand 0.000000
+( 62, 57) demand 14.000000
+( 57, 58) demand 20.000000
+( 9, 8) demand 37.000000
+( 8, 11) demand 48.000000
+( 1, 1) demand 0.000000
+cliDemand: 119
+totalArcDist: 962.000000
+
+Trip 4
+DEM= 120
+DIST= 665.000000
+0 demand 0.000000 clientNum 1
+47 demand 74.000000 clientNum 5
+22 demand 46.000000 clientNum 4
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 11
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 105 clusterID: 47
+arcID: 103 clusterID: 47
+arcID: 102 clusterID: 47
+arcID: 45 clusterID: 22
+arcID: 44 clusterID: 22
+arcID: 43 clusterID: 22
+arcID: 42 clusterID: 22
+arcID: 104 clusterID: 47
+arcID: 106 clusterID: 47
+arcID: 0 clusterID: 0
+arcSize: 11
+Arc trip:
+( 1, 1) demand 0.000000
+( 84, 82) demand 13.000000
+( 82, 83) demand 10.000000
+( 82, 80) demand 16.000000
+( 38, 41) demand 10.000000
+( 41, 40) demand 12.000000
+( 40, 39) demand 18.000000
+( 39, 38) demand 6.000000
+( 81, 83) demand 17.000000
+( 83, 84) demand 18.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 665.000000
+
+Trip 5
+DEM= 120
+DIST= 478.000000
+0 demand 0.000000 clientNum 1
+83 demand 34.000000 clientNum 2
+82 demand 31.000000 clientNum 1
+77 demand 41.000000 clientNum 2
+71 demand 14.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 157 clusterID: 71
+arcID: 170 clusterID: 77
+arcID: 176 clusterID: 77
+arcID: 182 clusterID: 82
+arcID: 183 clusterID: 83
+arcID: 184 clusterID: 83
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 119, 120) demand 14.000000
+( 126, 127) demand 15.000000
+( 126, 131) demand 26.000000
+( 134, 136) demand 31.000000
+( 136, 137) demand 29.000000
+( 136, 138) demand 5.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 478.000000
+
+Trip 6
+DEM= 120
+DIST= 465.000000
+0 demand 0.000000 clientNum 1
+81 demand 43.000000 clientNum 3
+74 demand 61.000000 clientNum 2
+69 demand 16.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 154 clusterID: 69
+arcID: 167 clusterID: 74
+arcID: 179 clusterID: 81
+arcID: 181 clusterID: 81
+arcID: 180 clusterID: 81
+arcID: 165 clusterID: 74
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 2, 117) demand 16.000000
+( 123, 125) demand 32.000000
+( 133, 134) demand 10.000000
+( 134, 135) demand 14.000000
+( 135, 133) demand 19.000000
+( 124, 123) demand 29.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 465.000000
+
+Trip 7
+DEM= 120
+DIST= 1082.000000
+0 demand 0.000000 clientNum 1
+2 demand 31.000000 clientNum 2
+6 demand 46.000000 clientNum 2
+11 demand 43.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 24 clusterID: 11
+arcID: 22 clusterID: 11
+arcID: 18 clusterID: 6
+arcID: 8 clusterID: 6
+arcID: 2 clusterID: 2
+arcID: 3 clusterID: 2
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 25, 24) demand 10.000000
+( 24, 20) demand 33.000000
+( 20, 12) demand 34.000000
+( 12, 13) demand 12.000000
+( 6, 7) demand 21.000000
+( 6, 8) demand 10.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 1082.000000
+
+Trip 8
+DEM= 120
+DIST= 740.000000
+0 demand 0.000000 clientNum 1
+27 demand 67.000000 clientNum 3
+37 demand 53.000000 clientNum 3
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 80 clusterID: 37
+arcID: 76 clusterID: 37
+arcID: 77 clusterID: 37
+arcID: 58 clusterID: 27
+arcID: 59 clusterID: 27
+arcID: 57 clusterID: 27
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 66, 62) demand 37.000000
+( 62, 63) demand 7.000000
+( 63, 64) demand 9.000000
+( 49, 48) demand 10.000000
+( 48, 50) demand 8.000000
+( 48, 139) demand 49.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 740.000000
+
+Trip 9
+DEM= 120
+DIST= 739.000000
+0 demand 0.000000 clientNum 1
+62 demand 66.000000 clientNum 2
+29 demand 24.000000 clientNum 2
+28 demand 30.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 140 clusterID: 62
+arcID: 62 clusterID: 29
+arcID: 61 clusterID: 29
+arcID: 60 clusterID: 28
+arcID: 138 clusterID: 62
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 108, 106) demand 38.000000
+( 53, 52) demand 12.000000
+( 52, 51) demand 12.000000
+( 51, 50) demand 30.000000
+( 106, 107) demand 28.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 739.000000
+
+Trip 10
+DEM= 120
+DIST= 1169.000000
+0 demand 0.000000 clientNum 1
+44 demand 25.000000 clientNum 2
+16 demand 69.000000 clientNum 2
+1 demand 26.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 1 clusterID: 1
+arcID: 31 clusterID: 16
+arcID: 33 clusterID: 16
+arcID: 95 clusterID: 44
+arcID: 97 clusterID: 44
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 5, 6) demand 26.000000
+( 30, 31) demand 41.000000
+( 30, 32) demand 28.000000
+( 76, 77) demand 10.000000
+( 77, 78) demand 15.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 1169.000000
+
+Trip 11
+DEM= 120
+DIST= 232.000000
+0 demand 0.000000 clientNum 1
+67 demand 49.000000 clientNum 3
+73 demand 71.000000 clientNum 4
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 9
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 150 clusterID: 67
+arcID: 153 clusterID: 67
+arcID: 166 clusterID: 73
+arcID: 164 clusterID: 73
+arcID: 162 clusterID: 73
+arcID: 161 clusterID: 73
+arcID: 152 clusterID: 67
+arcID: 0 clusterID: 0
+arcSize: 9
+Arc trip:
+( 1, 1) demand 0.000000
+( 116, 115) demand 10.000000
+( 115, 117) demand 20.000000
+( 120, 123) demand 32.000000
+( 123, 122) demand 15.000000
+( 122, 121) demand 8.000000
+( 121, 120) demand 16.000000
+( 117, 116) demand 19.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 232.000000
+
+Trip 12
+DEM= 120
+DIST= 344.000000
+0 demand 0.000000 clientNum 1
+66 demand 94.000000 clientNum 2
+51 demand 26.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 6
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 149 clusterID: 66
+arcID: 158 clusterID: 66
+arcID: 111 clusterID: 51
+arcID: 112 clusterID: 51
+arcID: 0 clusterID: 0
+arcSize: 6
+Arc trip:
+( 1, 1) demand 0.000000
+( 115, 114) demand 36.000000
+( 114, 118) demand 58.000000
+( 88, 89) demand 14.000000
+( 88, 90) demand 12.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 344.000000
+
+Trip 13
+DEM= 120
+DIST= 485.000000
+0 demand 0.000000 clientNum 1
+58 demand 33.000000 clientNum 1
+56 demand 87.000000 clientNum 4
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 130 clusterID: 56
+arcID: 129 clusterID: 56
+arcID: 128 clusterID: 58
+arcID: 122 clusterID: 56
+arcID: 132 clusterID: 56
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 101, 94) demand 4.000000
+( 94, 100) demand 17.000000
+( 100, 99) demand 33.000000
+( 95, 94) demand 49.000000
+( 101, 102) demand 17.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 485.000000
+
+Trip 14
+DEM= 119
+DIST= 986.000000
+0 demand 0.000000 clientNum 1
+46 demand 31.000000 clientNum 3
+12 demand 88.000000 clientNum 3
+0 demand 0.000000 clientNum 1
+totalDemand: 119
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 101 clusterID: 46
+arcID: 100 clusterID: 46
+arcID: 32 clusterID: 12
+arcID: 26 clusterID: 12
+arcID: 23 clusterID: 12
+arcID: 99 clusterID: 46
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 80, 81) demand 10.000000
+( 81, 79) demand 9.000000
+( 31, 26) demand 12.000000
+( 26, 23) demand 20.000000
+( 23, 24) demand 56.000000
+( 79, 80) demand 12.000000
+( 1, 1) demand 0.000000
+cliDemand: 119
+totalArcDist: 986.000000
+
+Trip 15
+DEM= 120
+DIST= 1093.000000
+0 demand 0.000000 clientNum 1
+55 demand 42.000000 clientNum 2
+9 demand 68.000000 clientNum 2
+15 demand 10.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 20 clusterID: 9
+arcID: 19 clusterID: 9
+arcID: 30 clusterID: 15
+arcID: 29 clusterID: 15
+arcID: 120 clusterID: 55
+arcID: 121 clusterID: 55
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 20, 22) demand 10.000000
+( 20, 21) demand 58.000000
+( 30, 28) demand 5.000000
+( 28, 29) demand 5.000000
+( 63, 93) demand 25.000000
+( 93, 94) demand 17.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 1093.000000
+
+Trip 16
+DEM= 119
+DIST= 562.000000
+0 demand 0.000000 clientNum 1
+41 demand 45.000000 clientNum 2
+43 demand 74.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 119
+totalCustomerNum: 6
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 87 clusterID: 41
+arcID: 94 clusterID: 43
+arcID: 93 clusterID: 43
+arcID: 92 clusterID: 41
+arcID: 0 clusterID: 0
+arcSize: 6
+Arc trip:
+( 1, 1) demand 0.000000
+( 71, 72) demand 9.000000
+( 74, 76) demand 27.000000
+( 76, 75) demand 47.000000
+( 75, 71) demand 36.000000
+( 1, 1) demand 0.000000
+cliDemand: 119
+totalArcDist: 562.000000
+
+Trip 17
+DEM= 120
+DIST= 620.000000
+0 demand 0.000000 clientNum 1
+52 demand 74.000000 clientNum 2
+32 demand 46.000000 clientNum 4
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 113 clusterID: 52
+arcID: 114 clusterID: 52
+arcID: 65 clusterID: 32
+arcID: 188 clusterID: 32
+arcID: 187 clusterID: 32
+arcID: 66 clusterID: 32
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 91, 90) demand 7.000000
+( 90, 68) demand 67.000000
+( 55, 54) demand 10.000000
+( 54, 140) demand 18.000000
+( 140, 55) demand 14.000000
+( 55, 56) demand 4.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 620.000000
+
+Trip 18
+DEM= 120
+DIST= 742.000000
+0 demand 0.000000 clientNum 1
+23 demand 99.000000 clientNum 1
+61 demand 21.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 5
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 46 clusterID: 23
+arcID: 136 clusterID: 61
+arcID: 137 clusterID: 61
+arcID: 0 clusterID: 0
+arcSize: 5
+Arc trip:
+( 1, 1) demand 0.000000
+( 41, 47) demand 99.000000
+( 104, 105) demand 6.000000
+( 105, 106) demand 15.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 742.000000
+
+Trip 19
+DEM= 120
+DIST= 559.000000
+0 demand 0.000000 clientNum 1
+79 demand 41.000000 clientNum 1
+80 demand 12.000000 clientNum 2
+84 demand 67.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 172 clusterID: 79
+arcID: 177 clusterID: 80
+arcID: 178 clusterID: 80
+arcID: 185 clusterID: 84
+arcID: 186 clusterID: 84
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 3, 128) demand 41.000000
+( 131, 132) demand 5.000000
+( 132, 133) demand 7.000000
+( 131, 138) demand 47.000000
+( 138, 125) demand 20.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 559.000000
+
+Trip 20
+DEM= 117
+DIST= 633.000000
+0 demand 0.000000 clientNum 1
+42 demand 38.000000 clientNum 3
+33 demand 79.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 117
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 79 clusterID: 33
+arcID: 67 clusterID: 33
+arcID: 89 clusterID: 42
+arcID: 90 clusterID: 42
+arcID: 88 clusterID: 42
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 65, 56) demand 30.000000
+( 56, 57) demand 49.000000
+( 72, 74) demand 15.000000
+( 74, 73) demand 5.000000
+( 73, 72) demand 18.000000
+( 1, 1) demand 0.000000
+cliDemand: 117
+totalArcDist: 633.000000
+
+Trip 21
+DEM= 119
+DIST= 914.000000
+0 demand 0.000000 clientNum 1
+14 demand 56.000000 clientNum 2
+59 demand 63.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 119
+totalCustomerNum: 6
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 133 clusterID: 59
+arcID: 189 clusterID: 14
+arcID: 28 clusterID: 14
+arcID: 135 clusterID: 59
+arcID: 0 clusterID: 0
+arcSize: 6
+Arc trip:
+( 1, 1) demand 0.000000
+( 103, 102) demand 42.000000
+( 11, 27) demand 50.000000
+( 27, 28) demand 6.000000
+( 102, 104) demand 21.000000
+( 1, 1) demand 0.000000
+cliDemand: 119
+totalArcDist: 914.000000
+
+Trip 22
+DEM= 120
+DIST= 544.000000
+0 demand 0.000000 clientNum 1
+72 demand 17.000000 clientNum 1
+64 demand 103.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 4
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 141 clusterID: 64
+arcID: 160 clusterID: 72
+arcID: 0 clusterID: 0
+arcSize: 4
+Arc trip:
+( 1, 1) demand 0.000000
+( 108, 109) demand 103.000000
+( 118, 121) demand 17.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 544.000000
+
+Trip 23
+DEM= 118
+DIST= 672.000000
+0 demand 0.000000 clientNum 1
+57 demand 75.000000 clientNum 5
+38 demand 43.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 118
+totalCustomerNum: 9
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 119 clusterID: 38
+arcID: 78 clusterID: 38
+arcID: 123 clusterID: 57
+arcID: 126 clusterID: 57
+arcID: 127 clusterID: 57
+arcID: 125 clusterID: 57
+arcID: 124 clusterID: 57
+arcID: 0 clusterID: 0
+arcSize: 9
+Arc trip:
+( 1, 1) demand 0.000000
+( 93, 64) demand 28.000000
+( 64, 65) demand 15.000000
+( 95, 96) demand 8.000000
+( 96, 99) demand 10.000000
+( 99, 97) demand 37.000000
+( 97, 98) demand 3.000000
+( 97, 96) demand 17.000000
+( 1, 1) demand 0.000000
+cliDemand: 118
+totalArcDist: 672.000000
+
+Trip 24
+DEM= 120
+DIST= 625.000000
+0 demand 0.000000 clientNum 1
+36 demand 84.000000 clientNum 3
+40 demand 36.000000 clientNum 5
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 10
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 82 clusterID: 40
+arcID: 83 clusterID: 40
+arcID: 84 clusterID: 40
+arcID: 70 clusterID: 36
+arcID: 72 clusterID: 36
+arcID: 73 clusterID: 36
+arcID: 85 clusterID: 40
+arcID: 86 clusterID: 40
+arcID: 0 clusterID: 0
+arcSize: 10
+Arc trip:
+( 1, 1) demand 0.000000
+( 68, 67) demand 9.000000
+( 67, 69) demand 4.000000
+( 69, 70) demand 8.000000
+( 59, 60) demand 18.000000
+( 60, 61) demand 35.000000
+( 61, 59) demand 31.000000
+( 70, 71) demand 9.000000
+( 71, 69) demand 6.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 625.000000
+
+Trip 25
+DEM= 120
+DIST= 921.000000
+0 demand 0.000000 clientNum 1
+5 demand 49.000000 clientNum 2
+7 demand 71.000000 clientNum 7
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 11
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 35 clusterID: 5
+arcID: 7 clusterID: 5
+arcID: 14 clusterID: 7
+arcID: 11 clusterID: 7
+arcID: 12 clusterID: 7
+arcID: 16 clusterID: 7
+arcID: 15 clusterID: 7
+arcID: 13 clusterID: 7
+arcID: 9 clusterID: 7
+arcID: 0 clusterID: 0
+arcSize: 11
+Arc trip:
+( 1, 1) demand 0.000000
+( 33, 11) demand 24.000000
+( 11, 12) demand 25.000000
+( 13, 16) demand 12.000000
+( 16, 15) demand 8.000000
+( 15, 17) demand 13.000000
+( 18, 19) demand 6.000000
+( 18, 17) demand 8.000000
+( 17, 13) demand 6.000000
+( 14, 13) demand 18.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 921.000000
+
+Trip 26
+DEM= 120
+DIST= 1027.000000
+0 demand 0.000000 clientNum 1
+10 demand 55.000000 clientNum 1
+17 demand 65.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 5
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 56 clusterID: 17
+arcID: 21 clusterID: 10
+arcID: 34 clusterID: 17
+arcID: 0 clusterID: 0
+arcSize: 5
+Arc trip:
+( 1, 1) demand 0.000000
+( 139, 33) demand 13.000000
+( 21, 23) demand 55.000000
+( 29, 33) demand 52.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 1027.000000
+
+Trip 27
+DEM= 120
+DIST= 485.000000
+0 demand 0.000000 clientNum 1
+63 demand 66.000000 clientNum 5
+54 demand 36.000000 clientNum 2
+68 demand 18.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 10
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 151 clusterID: 68
+arcID: 117 clusterID: 54
+arcID: 116 clusterID: 54
+arcID: 144 clusterID: 63
+arcID: 143 clusterID: 63
+arcID: 142 clusterID: 63
+arcID: 139 clusterID: 63
+arcID: 145 clusterID: 63
+arcID: 0 clusterID: 0
+arcSize: 10
+Arc trip:
+( 1, 1) demand 0.000000
+( 1, 116) demand 18.000000
+( 82, 92) demand 26.000000
+( 92, 89) demand 10.000000
+( 112, 110) demand 13.000000
+( 110, 111) demand 7.000000
+( 110, 107) demand 8.000000
+( 107, 108) demand 25.000000
+( 107, 112) demand 13.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 485.000000
+
+Trip 28
+DEM= 118
+DIST= 497.000000
+0 demand 0.000000 clientNum 1
+78 demand 56.000000 clientNum 3
+60 demand 62.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 118
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 174 clusterID: 78
+arcID: 173 clusterID: 78
+arcID: 171 clusterID: 78
+arcID: 159 clusterID: 60
+arcID: 134 clusterID: 60
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 127, 129) demand 11.000000
+( 129, 128) demand 23.000000
+( 128, 127) demand 22.000000
+( 118, 91) demand 35.000000
+( 91, 103) demand 27.000000
+( 1, 1) demand 0.000000
+cliDemand: 118
+totalArcDist: 497.000000
+
+Trip 29
+DEM= 120
+DIST= 611.000000
+0 demand 0.000000 clientNum 1
+45 demand 12.000000 clientNum 1
+24 demand 42.000000 clientNum 4
+20 demand 41.000000 clientNum 3
+21 demand 25.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 11
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 98 clusterID: 45
+arcID: 49 clusterID: 24
+arcID: 40 clusterID: 20
+arcID: 41 clusterID: 21
+arcID: 38 clusterID: 20
+arcID: 39 clusterID: 20
+arcID: 47 clusterID: 24
+arcID: 53 clusterID: 24
+arcID: 48 clusterID: 24
+arcID: 0 clusterID: 0
+arcSize: 11
+Arc trip:
+( 1, 1) demand 0.000000
+( 79, 78) demand 12.000000
+( 43, 37) demand 16.000000
+( 37, 36) demand 20.000000
+( 36, 38) demand 25.000000
+( 36, 35) demand 4.000000
+( 35, 37) demand 17.000000
+( 37, 42) demand 17.000000
+( 42, 47) demand 4.000000
+( 42, 43) demand 5.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 611.000000
+
+Trip 30
+DEM= 120
+DIST= 553.000000
+0 demand 0.000000 clientNum 1
+35 demand 51.000000 clientNum 2
+53 demand 69.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 5
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 190 clusterID: 35
+arcID: 69 clusterID: 35
+arcID: 115 clusterID: 53
+arcID: 0 clusterID: 0
+arcSize: 5
+Arc trip:
+( 1, 1) demand 0.000000
+( 70, 58) demand 11.000000
+( 58, 59) demand 40.000000
+( 66, 91) demand 69.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 553.000000
+
+Trip 31
+DEM= 120
+DIST= 377.000000
+0 demand 0.000000 clientNum 1
+50 demand 19.000000 clientNum 2
+48 demand 39.000000 clientNum 2
+65 demand 62.000000 clientNum 3
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 9
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 148 clusterID: 65
+arcID: 146 clusterID: 65
+arcID: 147 clusterID: 65
+arcID: 118 clusterID: 48
+arcID: 107 clusterID: 48
+arcID: 109 clusterID: 50
+arcID: 163 clusterID: 50
+arcID: 0 clusterID: 0
+arcSize: 9
+Arc trip:
+( 1, 1) demand 0.000000
+( 114, 113) demand 12.000000
+( 112, 113) demand 4.000000
+( 113, 103) demand 46.000000
+( 92, 84) demand 29.000000
+( 84, 85) demand 10.000000
+( 86, 87) demand 4.000000
+( 87, 122) demand 15.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 377.000000
+
+Trip 32
+DEM= 120
+DIST= 596.000000
+0 demand 0.000000 clientNum 1
+25 demand 59.000000 clientNum 4
+39 demand 61.000000 clientNum 2
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 8
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 96 clusterID: 25
+arcID: 54 clusterID: 25
+arcID: 55 clusterID: 25
+arcID: 50 clusterID: 25
+arcID: 81 clusterID: 39
+arcID: 131 clusterID: 39
+arcID: 0 clusterID: 0
+arcSize: 8
+Arc trip:
+( 1, 1) demand 0.000000
+( 77, 46) demand 16.000000
+( 46, 47) demand 7.000000
+( 46, 43) demand 5.000000
+( 43, 44) demand 31.000000
+( 67, 66) demand 33.000000
+( 66, 101) demand 28.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 596.000000
+
+Trip 33
+DEM= 120
+DIST= 760.000000
+0 demand 0.000000 clientNum 1
+19 demand 59.000000 clientNum 1
+31 demand 37.000000 clientNum 2
+30 demand 24.000000 clientNum 1
+0 demand 0.000000 clientNum 1
+totalDemand: 120
+totalCustomerNum: 6
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 37 clusterID: 19
+arcID: 74 clusterID: 31
+arcID: 64 clusterID: 31
+arcID: 63 clusterID: 30
+arcID: 0 clusterID: 0
+arcSize: 6
+Arc trip:
+( 1, 1) demand 0.000000
+( 35, 34) demand 59.000000
+( 61, 49) demand 13.000000
+( 49, 140) demand 24.000000
+( 140, 53) demand 24.000000
+( 1, 1) demand 0.000000
+cliDemand: 120
+totalArcDist: 760.000000
+
+Trip 34
+DEM= 118
+DIST= 697.000000
+0 demand 0.000000 clientNum 1
+26 demand 50.000000 clientNum 2
+18 demand 68.000000 clientNum 3
+0 demand 0.000000 clientNum 1
+totalDemand: 118
+totalCustomerNum: 7
+Cluster trip:
+arcID: 0 clusterID: 0
+arcID: 71 clusterID: 18
+arcID: 36 clusterID: 18
+arcID: 52 clusterID: 18
+arcID: 51 clusterID: 26
+arcID: 91 clusterID: 26
+arcID: 0 clusterID: 0
+arcSize: 7
+Arc trip:
+( 1, 1) demand 0.000000
+( 60, 45) demand 15.000000
+( 34, 139) demand 49.000000
+( 34, 45) demand 4.000000
+( 45, 44) demand 14.000000
+( 44, 73) demand 36.000000
+( 1, 1) demand 0.000000
+cliDemand: 118
+totalArcDist: 697.000000
+
+All trip arc dist: 23892.000000
+//////////////////////////////////////////////////////////////////////
